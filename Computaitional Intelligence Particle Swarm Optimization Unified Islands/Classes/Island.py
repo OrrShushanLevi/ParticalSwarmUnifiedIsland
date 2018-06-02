@@ -4,8 +4,8 @@ from .GraphLibrery import Graph
 import numpy as np
 class Island(object):
     
-    def __init__(self,graph_func,island_size,particles,bounderies,acc_coeff_personal,acc_coeff_social,is_bounded = True,lb,ub)
-        self.graph = graph_func(particles)
+    def __init__(self,graph_func,island_size,bounderies=0,acc_coeff_personal,acc_coeff_social,is_bounded = True,lb,ub,par_size)
+        self.graph = graph_func
         self.size = island_size
         self.first_size = island_size
         self.boundery_conditions = bounderies
@@ -17,6 +17,7 @@ class Island(object):
         self.omega = 0.7298
         self.lb = lb
         self.ub = ub
+        self.particle_size = par_size
         
     def UpdateIsland(self,objFunc=lambda x: x.dot(x)):
         for k in range(0,self.size):
@@ -36,5 +37,10 @@ class Island(object):
         
         
         """"
-        
-        
+    def InitializeParticles(self)
+        particles = []
+       
+        for k in range (self.size):
+            point = self.local_state.uniform(size=self.particle_size)*(self.ub - self.lb) + self.lb
+            particles.append(Particle(point)) """ TODO ask ofer about different seeds """"
+        self.graph(particles) """constructing graph from particles"""   

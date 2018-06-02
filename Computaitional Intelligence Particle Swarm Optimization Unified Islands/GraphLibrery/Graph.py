@@ -24,3 +24,8 @@ class Graph(object) :
         newedge = Edge(first_vertex,second_vertex,wieght)
         self.edges.append(newedge) 
         """Mabye need copy"""
+        
+        
+    def updateEdgeWieght(self):
+        for k in range(0,self.edges):
+            self.edges[k].wieght= np.linalg.norm(self.edges[k].source-self.edges[k].target)
