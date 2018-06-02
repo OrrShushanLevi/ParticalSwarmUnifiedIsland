@@ -17,3 +17,17 @@ class Particle(object) :
             self.position_pbest = np.copy(self.current_position)
             self.fitness_pbest = self.fitness 
         
+        
+    def update_velocity(self,pos_best_g, c1, c2, omega) :
+        r1 = self.local_state.uniform(size=self.n)
+        r2 = self.local_state.uniform(size=self.n)
+        #In the following, we use element-wise numpy array multiplication on r_i
+        vel_cognitive = r1*(self.position_pbest - self.current_position)
+        vel_social = r2*(pos_best_g - self.current_position)
+        self.velocity = omega*self.velocity + c1*vel_cognitive + c2*vel_social
+        
+    def update_position(self,lb,ub):
+        self.current_position = self.current_position + self.velocity
+        #enforce boundary conditions
+        self.current_position[self.current_position < lb] = lb
+        self.current_position[self.current_position > ub] = ub
