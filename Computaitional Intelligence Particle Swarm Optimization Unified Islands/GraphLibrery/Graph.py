@@ -25,7 +25,7 @@ class Graph(object) :
         self.edges.append(newedge) 
         """Mabye need copy"""
         
-        
+        """notice that in order to calculate the wieght of the edges there need to be a position for each vertex"""
     def updateEdgeWieght(self):
         for k in range(0,self.edges):
             self.edges[k].wieght= np.linalg.norm(self.edges[k].source-self.edges[k].target)
