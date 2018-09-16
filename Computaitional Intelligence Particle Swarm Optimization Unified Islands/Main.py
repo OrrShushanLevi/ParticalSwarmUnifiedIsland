@@ -13,21 +13,23 @@ from Classes import Island
     
 
 if __name__ == "__main__":
-    lb = 0.25
-    ub = 10
-    dim = 2
+    lb = objFunctions.GetVincentLB()
+    ub = objFunctions.GetVincentUB()
+    dim = 100
+    numofparticles = 10
+    numofislands = 10
     objfunc = objFunctions.VincentFunction
-    island = Island.Island(10,1.49,1.49,0,lb,ub,dim)
-    island.InitializeParticlesRandomly()
-    maxevals = 100000
-    c = 0
-    boundery_arr= [1]*36
-    par_arr = [10]*36
-    acc_coeff = [1.49]*36
-    dim_arr= [2]*36
-    space = Space.Space(objfunc,maxevals,boundery_arr,36,par_arr,ub,lb,par_arr,acc_coeff,acc_coeff,boundery_arr,dim_arr)
+    maxevals = 100*dim*dim
+    boundery_arr= [1]*numofislands
+    par_arr = [numofparticles]*numofislands
+    acc_coeff = [1.49]*numofislands
+    dim_arr= [dim]*numofislands
+    space = Space.Space(objfunc,maxevals,boundery_arr,numofislands,par_arr,ub,lb,par_arr,acc_coeff,acc_coeff,boundery_arr,dim_arr)
     space.constructIslands()
     space.standardIslandPSO()
+    #space.ConvergingIslandsPSO()
+    #space.printAllParticleResault()
+    space.printIslandLeadersResault()
         
    
         
