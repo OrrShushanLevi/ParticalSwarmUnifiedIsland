@@ -7,5 +7,3 @@ def GetVincentUB():
     return 10
 def GetVincentLB():
     return 0.25
-def 
-
