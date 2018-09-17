@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 from .Island import Island
 import numpy as np
+import matplotlib.pyplot as plt
 class Space(object):
     
     def __init__(self,objFunc,N,bound_enf_func_array,total_island_num,par_in_each_island_array,func_upp_b,func_low_b,graph_functions_array,acc_coeff_per_array,acc_coef_social_array,island_boundery_status_arr,island_particle_dim_arr,unified_flag = True):
@@ -20,6 +21,7 @@ class Space(object):
         self.best_islands_leaders_fitness = [None] *total_island_num
         self.island_boundery_status_array = island_boundery_status_arr
         self.island_particle_dim_array = island_particle_dim_arr
+        self.parplot = plt.subplot(111)
         
         
     def constructIslands(self):
@@ -41,7 +43,32 @@ class Space(object):
         for k in range (self.total_islands):
             for j in range (self.island_array[k].size):
                 print("Particle number: ",j, " From Island number: ",k, " Best Score is: ",self.island_array[k].graph[j].fitness_pbest," In Position : ",self.island_array[k].graph[j].position_pbest)
-                
+    def plotParticles(self):
+        self.parplot.clear()
+        for k in range (self.total_islands):
+            if (k%7) ==0:
+                color = 'b'
+            if (k%7) ==1:
+                color = 'g'
+            if (k%7) ==2:
+                color = 'r'
+            if (k%7) ==3:
+                color = 'c'
+            if (k%7) ==4:
+                color = 'm'
+            if (k%7) ==5:
+                color = 'y'
+            if (k%7) ==6:
+                color = 'b'
+            
+            
+            for j in range (self.island_array[k].size):
+                pos = self.island_array[k].graph[j].current_position
+                self.parplot.plot(pos[0] , pos[1],'+' + color)
+                print (pos)
+        plt.show()
+        plt.pause(0.3)
+            
     def printIslandLeadersResault(self):
         for k in range (self.total_islands):
             print("Island number: ", k," Best Score is: ",self.best_islands_leaders_fitness[k]," In Position : ",self.best_islands_leaders_position[k] )
@@ -63,6 +90,8 @@ class Space(object):
                    # print("Island k =",k," best score is : ",self.best_islands_leaders_fitness[k]," in position : ",self.best_islands_leaders_position[k])   
                 i+= particlesum
                 print("    iteration :  ",i)
+               
+                self.plotParticles()
                   
     def ConvergingIslandsPSO(self):
         i = 0 
@@ -80,6 +109,7 @@ class Space(object):
                     self.best_islands_leaders_fitness[k]= np.copy(self.island_array[k].fitness_best_g)
                 i+= particlesum
                 print("iteration number : ",i)
+                self.plotParticles()
                 if i>=np.rint(self.n_iter/unificationparam):
                     print("Unification is occuring!")
                     lowScoreIsland = 0 
@@ -97,7 +127,8 @@ class Space(object):
                     self.island_array[lowScoreIsland].is_bounded = 0
                     self.island_array[lowScoreIsland].lb=self.obj_function_lower_bound
                     self.island_array[lowScoreIsland].ub=self.obj_function_upper_bound
-                    self.island_array[lowScoreIsland].acceleration_coeff_social = 2*self.island_array[lowScoreIsland].acceleration_coeff_social
+                    self.island_array[lowScoreIsland].acceleration_coeff_personal=0
+                    #self.island_array[lowScoreIsland].acceleration_coeff_social = 2*self.island_array[lowScoreIsland].acceleration_coeff_social
                     self.island_array[lowScoreIsland].position_best_g = np.copy(self.island_array[highScoreIsland].position_best_g)
                     self.island_array[lowScoreIsland].fitness_best_g = np.copy(self.island_array[highScoreIsland].fitness_best_g)
                     if unificationparam > 0 :
