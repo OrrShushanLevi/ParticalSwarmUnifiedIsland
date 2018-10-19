@@ -7,3 +7,9 @@ def GetVincentUB():
     return 10
 def GetVincentLB():
     return 0.25
+def ModifiedRastrigin(x):
+    return -(np.sum(10 +9*np.cos(2*np.pi*5*x)))
+def GetModifiedRastriginUB():
+    return 1
+def GetModifiedRastriginLB():
+    return 0

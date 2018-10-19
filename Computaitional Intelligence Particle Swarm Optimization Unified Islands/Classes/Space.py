@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 class Space(object):
     
-    def __init__(self,objFunc,N,bound_enf_func_array,total_island_num,par_in_each_island_array,func_upp_b,func_low_b,graph_functions_array,acc_coeff_per_array,acc_coef_social_array,island_boundery_status_arr,island_particle_dim_arr,unified_flag = True):
+    def __init__(self,objFunc,N,bound_enf_func_array,total_island_num,par_in_each_island_array,func_upp_b,func_low_b,graph_functions_array,acc_coeff_per_array,acc_coef_social_array,island_boundery_status_arr,island_particle_dim_arr,global_optimum_value,op_num,unified_flag = True):
         self.obj_func = objFunc
         self.n_iter = N
         self.boundery_enforcer = bound_enf_func_array
@@ -22,11 +22,14 @@ class Space(object):
         self.island_boundery_status_array = island_boundery_status_arr
         self.island_particle_dim_array = island_particle_dim_arr
         self.parplot = plt.subplot(111)
+        self.globalOptimaValue=global_optimum_value
+        self.epsilon = 0.0001
+        self.operationNumber=op_num
         
         
     def constructIslands(self):
         for k in range (self.total_islands):
-            self.island_array.append(Island(self.particle_in_each_island[k],self.acc_coeff_per_array[k],self.acc_coeff_social_array[k],self.island_boundery_status_array[k],self.computeLowerBound(k),self.compueUpperBound(k),self.island_particle_dim_array[k]))
+            self.island_array.append(Island(self.particle_in_each_island[k],self.acc_coeff_per_array[k],self.acc_coeff_social_array[k],self.island_boundery_status_array[k],self.computeLowerBound(k),self.compueUpperBound(k),self.island_particle_dim_array[k],self.globalOptimaValue,self.operationNumber))
     
     
     def computeLowerBound(self,k):
@@ -43,6 +46,8 @@ class Space(object):
         for k in range (self.total_islands):
             for j in range (self.island_array[k].size):
                 print("Particle number: ",j, " From Island number: ",k, " Best Score is: ",self.island_array[k].graph[j].fitness_pbest," In Position : ",self.island_array[k].graph[j].position_pbest)
+                
+                
     def plotParticles(self):
         self.parplot.clear()
         for k in range (self.total_islands):
@@ -64,17 +69,53 @@ class Space(object):
             
             for j in range (self.island_array[k].size):
                 pos = self.island_array[k].graph[j].current_position
-                self.parplot.plot(pos[0] , pos[1],'+' + color)
-                print (pos)
+                self.parplot.plot(pos[0] , pos[1],'+' + color)        
         plt.show()
-        plt.pause(0.3)
+        plt.pause(0.2)
             
     def printIslandLeadersResault(self):
         for k in range (self.total_islands):
             print("Island number: ", k," Best Score is: ",self.best_islands_leaders_fitness[k]," In Position : ",self.best_islands_leaders_position[k] )
+            
+            
+            
+            
     def printBound(self):
         for k in range (self.total_islands):
-            print("Island number: ", k," is bound param is: ",self.island_array[k].is_bounded)        
+            print("Island number: ", k," is bound param is: ",self.island_array[k].is_bounded)
+            
+            
+            
+            
+            
+    def printToFile(self,file):
+        for k in range (self.total_islands):
+            for j in range (self.island_array[k].size):
+                string = "Particle number: " + str(j) + " From Island number: " + str(k) + " Best Score is: " + str(self.island_array[k].graph[j].fitness_pbest) + " In Position : " + str(self.island_array[k].graph[j].position_pbest) + "\n"
+                file.write(string)
+        file.close()
+        return
+    
+    
+    
+    
+    
+    def printAvgParticleScore(self):
+        string="AvgParticleScoreForOperation"
+        string2 = str(self.operationNumber)
+        str3=string+string2+".txt"
+        file=open(str3,"w")
+        score_sum=0
+        for k in range (self.total_islands):
+            for j in range (self.island_array[k].size):
+                score_sum+=self.island_array[k].graph[j].fitness_pbest
+        string = "Score sum for operation " + str(self.operationNumber) + "is: " +str(score_sum) +"\n"
+        file.write(string)
+        file.close()
+        return
+    
+    
+    
     def standardIslandPSO(self):
         for k in range (self.total_islands):
             self.island_array[k].InitializeParticlesRandomly()
@@ -84,15 +125,18 @@ class Space(object):
             particlesum+= self.island_array[k].size
         while i < self.n_iter:
                 for k in range (self.total_islands):
-                    self.island_array[k].UpdateIsland(self.obj_func)
+                    self.island_array[k].UpdateIsland(i,self.epsilon,self.obj_func)
                     self.best_islands_leaders_position[k] = np.copy(self.island_array[k].position_best_g)
                     self.best_islands_leaders_fitness[k]= np.copy(self.island_array[k].fitness_best_g)
                    # print("Island k =",k," best score is : ",self.best_islands_leaders_fitness[k]," in position : ",self.best_islands_leaders_position[k])   
                 i+= particlesum
                 print("    iteration :  ",i)
                
-                self.plotParticles()
-                  
+                #self.plotParticles()
+     
+
+
+             
     def ConvergingIslandsPSO(self):
         i = 0 
         particlesum = 0
@@ -104,12 +148,12 @@ class Space(object):
             particlesum+= self.island_array[k].size
         while i < self.n_iter:
                 for k in range (self.total_islands):
-                    self.island_array[k].UpdateIsland(self.obj_func)
+                    self.island_array[k].UpdateIsland(i,self.epsilon,self.obj_func)
                     self.best_islands_leaders_position[k] = np.copy(self.island_array[k].position_best_g)
                     self.best_islands_leaders_fitness[k]= np.copy(self.island_array[k].fitness_best_g)
                 i+= particlesum
                 print("iteration number : ",i)
-                self.plotParticles()
+                #self.plotParticles()
                 if i>=np.rint(self.n_iter/unificationparam):
                     print("Unification is occuring!")
                     lowScoreIsland = 0 

@@ -4,7 +4,7 @@ from GraphLibrery import Graph
 import numpy as np
 class Island(object):
     
-    def __init__(self,island_size,acc_coeff_personal,acc_coeff_social,is_bounded,lb,ub,par_dim,bounderies=0):
+    def __init__(self,island_size,acc_coeff_personal,acc_coeff_social,is_bounded,lb,ub,par_dim,global_optimum_value,op_num,bounderies=0):
         self.graph = []
         self.size = island_size
         self.first_size = island_size
@@ -19,10 +19,22 @@ class Island(object):
         self.ub = ub
         self.particle_dimention = par_dim
         self.local_state = np.random.RandomState()
-        
-    def UpdateIsland(self,objFunc=lambda x: x.dot(x)):
+        self.globalOptimaValue=global_optimum_value
+        self.operationNumber = op_num
+    
+    def UpdateIsland(self,i,eps,objFunc=lambda x: x.dot(x)):
+        flag = 0
         for k in range(0,self.size):
            self.graph[k].evaluate(objFunc)
+           if self.graph[k].fitness -eps <= self.globalOptimaValue and flag==0:
+               string="GlobalOptForOperation"
+               string2 = str(self.operationNumber)
+               str3=string+string2+".txt"
+               file=open(str3,"w")
+               string = "Global Optimum Was found in iteration number " +str(i+k)
+               file.write(string)
+               flag=1
+               file.close()
            if self.graph[k].fitness < self.fitness_best_g :
                     self.position_best_g = np.copy(self.graph[k].current_position)
                     self.fitness_best_g = self.graph[k].fitness
