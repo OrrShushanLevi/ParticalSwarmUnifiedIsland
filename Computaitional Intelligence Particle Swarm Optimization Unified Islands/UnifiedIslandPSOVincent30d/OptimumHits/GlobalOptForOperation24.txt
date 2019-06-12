@@ -1,0 +1,1 @@
+Global Optimum Was found in iteration number 84001

@@ -1,0 +1,570 @@
+Particle number: 0 From Island number: 0 Best Score is: -0.914323913933 In Position : [ 0.9323995   0.25        0.25321833  0.25        0.4396674   0.25        0.25
+  0.25        0.25        0.4328795 ]
+Particle number: 1 From Island number: 0 Best Score is: -0.812677225372 In Position : [ 0.88227575  0.25        0.25        0.25        0.87772779  0.36736538
+  0.25        0.45028106  0.25        0.25      ]
+Particle number: 2 From Island number: 0 Best Score is: -0.966502282683 In Position : [ 0.86822943  0.25        0.25        0.25        0.87345968  0.25        0.25
+  0.25        0.25        0.25      ]
+Particle number: 3 From Island number: 0 Best Score is: -0.840422014702 In Position : [ 0.25        0.48649419  0.25        0.25        0.79273191  0.39511306
+  0.25        0.25        0.25        0.25      ]
+Particle number: 4 From Island number: 0 Best Score is: -0.862071000184 In Position : [ 0.25        0.46350485  0.25        0.25        0.72382324  0.25
+  0.4484011   0.25        0.25        0.25      ]
+Particle number: 5 From Island number: 0 Best Score is: -0.956323663103 In Position : [ 0.88963464  0.25        0.25        0.25        0.88449361  0.25        0.25
+  0.25        0.25        0.25      ]
+Particle number: 6 From Island number: 0 Best Score is: -0.93708332675 In Position : [ 0.82406863  0.25        0.25        0.78915736  0.85807158  0.25        0.25
+  0.25        0.25        0.25      ]
+Particle number: 7 From Island number: 0 Best Score is: -0.966407396543 In Position : [ 0.83270467  0.25        0.25        0.25        0.86172638  0.25        0.25
+  0.25        0.25        0.25      ]
+Particle number: 8 From Island number: 0 Best Score is: -0.95500597356 In Position : [ 0.82236459  0.25        0.25        0.25        0.82135441  0.25        0.25
+  0.25        0.25        0.25      ]
+Particle number: 9 From Island number: 0 Best Score is: -0.964252279325 In Position : [ 0.82648665  0.25        0.25        0.25        0.86128411  0.25        0.25
+  0.25        0.25        0.25      ]
+Particle number: 10 From Island number: 0 Best Score is: -0.957961485396 In Position : [ 0.88340159  0.25        0.25        0.25        0.88672771  0.25        0.25
+  0.25        0.25        0.25      ]
+Particle number: 11 From Island number: 0 Best Score is: -0.961431030047 In Position : [ 0.84258189  0.25        0.25        0.25        0.82159983  0.25        0.25
+  0.25        0.25        0.25      ]
+Particle number: 12 From Island number: 0 Best Score is: -0.94597206305 In Position : [ 0.81255576  0.25        0.25        0.25        0.897349    0.25        0.25
+  0.25        0.25        0.25      ]
+Particle number: 13 From Island number: 0 Best Score is: -0.855690445632 In Position : [ 0.25        0.86917855  0.25        0.25        0.79164325  0.25        0.25
+  0.51593599  0.26162479  0.25      ]
+Particle number: 14 From Island number: 0 Best Score is: -0.968408734305 In Position : [ 0.8452537   0.25        0.25        0.25        0.86736721  0.25        0.25
+  0.25        0.25        0.25      ]
+Particle number: 15 From Island number: 0 Best Score is: -0.898954538408 In Position : [ 0.91748597  0.25        0.25        0.25        0.94568852  0.25        0.25
+  0.25        0.25        0.25      ]
+Particle number: 16 From Island number: 0 Best Score is: -0.964969214696 In Position : [ 0.83472951  0.25        0.25        0.25        0.87350482  0.25        0.25
+  0.25        0.25        0.25      ]
+Particle number: 17 From Island number: 0 Best Score is: -0.964619745456 In Position : [ 0.88023921  0.25        0.25        0.25        0.84314335  0.25
+  0.25022615  0.25        0.25        0.25      ]
+Particle number: 18 From Island number: 0 Best Score is: -0.96367588262 In Position : [ 0.88601068  0.25        0.25        0.25        0.85536538  0.25        0.25
+  0.25        0.25        0.25      ]
+Particle number: 19 From Island number: 0 Best Score is: -0.730813969967 In Position : [ 0.25        0.8874518   0.25        0.47146487  1.0087063   0.25
+  0.37972649  0.25        0.25        0.25      ]
+Particle number: 20 From Island number: 0 Best Score is: -0.951530161352 In Position : [ 0.82951861  0.25        0.25        0.25        0.80981511  0.25        0.25
+  0.25        0.25        0.25      ]
+Particle number: 21 From Island number: 0 Best Score is: -0.863271665211 In Position : [ 0.76688059  0.25        0.25        0.25        0.76645228  0.25        0.25
+  0.25        0.25        0.25      ]
+Particle number: 22 From Island number: 0 Best Score is: -0.917687129146 In Position : [ 0.94356086  0.25        0.25        0.25        0.88814015  0.25        0.25
+  0.25        0.25        0.25      ]
+Particle number: 23 From Island number: 0 Best Score is: -0.962386308077 In Position : [ 0.82197564  0.25        0.25        0.25        0.84890093  0.25        0.25
+  0.25        0.25        0.25      ]
+Particle number: 24 From Island number: 0 Best Score is: -0.848023526221 In Position : [ 0.51923735  0.25        0.50555742  0.25        0.87856372  0.25        0.25
+  0.25        0.25        0.25      ]
+Particle number: 25 From Island number: 0 Best Score is: -0.969185018807 In Position : [ 0.45437438  0.25        0.25        0.25        0.84346307  0.25        0.25
+  0.25        0.25        0.25      ]
+Particle number: 26 From Island number: 0 Best Score is: -0.92633872937 In Position : [ 0.85859905  0.42034568  0.25        0.25        0.9053269   0.25        0.25
+  0.25        0.25        0.25      ]
+Particle number: 27 From Island number: 0 Best Score is: -0.913588168742 In Position : [ 0.84118057  0.25        0.25        0.25        0.95383605  0.25069378
+  0.25        0.25        0.25        0.25      ]
+Particle number: 28 From Island number: 0 Best Score is: -0.885414237284 In Position : [ 0.81636139  0.25        0.25        0.25        0.97442395  0.25        0.25
+  0.25        0.25        0.25      ]
+Particle number: 29 From Island number: 0 Best Score is: -0.786006735618 In Position : [ 0.57682693  0.25        0.25        0.25        0.86314877  0.25
+  0.25803832  0.25        0.25        0.25      ]
+Particle number: 0 From Island number: 1 Best Score is: -0.855683358488 In Position : [ 5.61507246  6.18985976  5.78303168  5.34988594  5.43513406  5.59057179
+  5.78608236  5.33363736  5.86248329  5.04727957]
+Particle number: 1 From Island number: 1 Best Score is: -0.912984373789 In Position : [ 5.20900526  5.75604179  5.17069253  5.36667005  5.48860527  5.56008081
+  5.63793404  5.54154496  5.7598578   5.77197169]
+Particle number: 2 From Island number: 1 Best Score is: -0.819289557943 In Position : [ 5.46300657  5.84549907  5.57480482  5.10662447  5.24331822  6.17183604
+  6.00447599  5.21483433  5.74502757  5.90622366]
+Particle number: 3 From Island number: 1 Best Score is: -0.938411536516 In Position : [ 5.78295931  5.74874164  5.89272787  5.77421761  5.56257907  5.62511188
+  5.29740287  5.83265693  5.91898775  5.8099459 ]
+Particle number: 4 From Island number: 1 Best Score is: -0.977871214945 In Position : [ 5.50855367  5.81858345  5.65031746  5.59432766  5.47931024  5.65023943
+  5.67146382  5.549935    5.78663312  5.81660349]
+Particle number: 5 From Island number: 1 Best Score is: -0.883388667681 In Position : [ 5.65892261  5.60549995  5.38054634  4.92120887  5.59484116  5.43985525
+  5.6219019   5.65950771  5.94863271  5.85925167]
+Particle number: 6 From Island number: 1 Best Score is: -0.927315662849 In Position : [ 5.4392697   5.80788377  5.72196595  5.49784192  5.78032645  5.68971478
+  5.75063808  6.22788621  5.6249009   5.8022354 ]
+Particle number: 7 From Island number: 1 Best Score is: -0.844718580949 In Position : [ 4.95921789  5.74810755  5.77394152  5.47436913  5.75301248  5.29176121
+  5.86011037  5.59540069  5.43642696  6.18335447]
+Particle number: 8 From Island number: 1 Best Score is: -0.913803287017 In Position : [ 5.52472381  5.19320455  5.74181276  5.37350805  5.68757924  6.04457007
+  5.61394763  5.62069354  5.40318944  5.86051093]
+Particle number: 9 From Island number: 1 Best Score is: -0.980721932731 In Position : [ 5.50065585  5.75949905  5.61043354  5.41096024  5.59534138  5.74256456
+  5.60294178  5.53955567  5.72126398  5.72383871]
+Particle number: 10 From Island number: 1 Best Score is: -0.882553492231 In Position : [ 5.76663805  5.82663116  5.81950494  5.32649119  5.61426558  5.82251525
+  6.39014413  5.44387968  5.43358627  5.56635869]
+Particle number: 11 From Island number: 1 Best Score is: -0.893581142618 In Position : [ 5.50703216  5.61508665  5.68510861  5.9526776   5.99497983  6.072953
+  5.59508321  5.53091857  5.73412785  6.16090273]
+Particle number: 12 From Island number: 1 Best Score is: -0.924474271696 In Position : [ 5.5857063   5.99921217  5.50939365  5.73235851  5.48313375  5.92173679
+  5.7938557   5.71129285  5.43079295  6.04202945]
+Particle number: 13 From Island number: 1 Best Score is: -0.74390757918 In Position : [ 5.09519037  5.91754955  5.9915607   5.49650596  5.90315502  5.66555418
+  6.61975629  5.09359013  5.58022383  5.33703116]
+Particle number: 14 From Island number: 1 Best Score is: -0.919744018178 In Position : [ 5.71380253  5.68557847  5.77556098  6.18608053  5.45162982  5.6075921
+  5.88891979  5.5977231   5.63040468  5.29011381]
+Particle number: 15 From Island number: 1 Best Score is: -0.91323970189 In Position : [ 5.52354259  5.68906289  5.59192696  5.52875548  6.08722638  5.66391476
+  5.93125039  6.04213888  5.42634046  5.87688928]
+Particle number: 16 From Island number: 1 Best Score is: -0.931747996883 In Position : [ 5.42721265  5.77627466  5.61984701  5.74584438  5.13745277  5.66580875
+  5.63319633  5.3645159   5.80660749  5.70857892]
+Particle number: 17 From Island number: 1 Best Score is: -0.910802092027 In Position : [ 5.70042081  5.83893993  6.23800638  5.73538133  5.92758864  5.83996324
+  5.77363949  5.79212268  5.80206137  5.63311819]
+Particle number: 18 From Island number: 1 Best Score is: -0.761119035382 In Position : [ 5.61073279  5.7787514   6.40857097  5.53850551  5.61629744  6.00495794
+  4.63413603  5.6777377   5.6206012   5.7898047 ]
+Particle number: 19 From Island number: 1 Best Score is: -0.782974656159 In Position : [ 4.95690214  6.09131153  5.8541559   5.57137758  4.94644346  5.58631928
+  5.71731953  5.19804872  5.56984788  5.79558692]
+Particle number: 20 From Island number: 1 Best Score is: -0.949307462058 In Position : [ 5.5638441   5.56867472  5.43470488  5.56943631  5.58675946  5.62316941
+  5.88438375  5.48083861  5.79170039  6.05275025]
+Particle number: 21 From Island number: 1 Best Score is: -0.773975714165 In Position : [ 5.14237957  8.41493027  5.71109196  5.53095649  5.67494423  5.75195395
+  5.4117722   5.59095316  5.71960643  5.38319575]
+Particle number: 22 From Island number: 1 Best Score is: -0.826868539059 In Position : [ 5.27230068  6.1464103   5.68634753  5.49574714  5.13774287  5.40026282
+  5.78097709  5.8591442   5.79819181  6.24794597]
+Particle number: 23 From Island number: 1 Best Score is: -0.795766099803 In Position : [ 5.48107665  5.23469702  5.64910138  4.88534261  5.77143194  5.67980495
+  6.4934589   5.66247341  5.69591904  5.57009022]
+Particle number: 24 From Island number: 1 Best Score is: -0.800128606496 In Position : [ 5.77517445  6.58451336  5.7385199   5.55898664  5.68404412  4.91240361
+  5.7345361   5.65707574  5.77706737  5.87874521]
+Particle number: 25 From Island number: 1 Best Score is: -0.855785083714 In Position : [ 5.66832508  5.8632728   5.1693448   5.40257519  5.77958671  5.73846217
+  5.25448507  6.20232083  5.31824136  5.82983398]
+Particle number: 26 From Island number: 1 Best Score is: -0.786648199619 In Position : [ 5.36385103  5.85799859  5.93201562  6.24073884  5.80124339  5.72177352
+  5.76029641  5.93665447  5.51300874  6.63497923]
+Particle number: 27 From Island number: 1 Best Score is: -0.942824345917 In Position : [ 5.51705058  5.8901662   5.65614475  5.37259547  5.50718222  5.94596535
+  5.48849098  5.4913913   5.89241844  5.69776744]
+Particle number: 28 From Island number: 1 Best Score is: -0.767821583234 In Position : [ 5.41505137  5.71279736  5.46132427  5.30306941  5.66807624  5.66540705
+  6.18338023  5.53363949  5.71427997  3.73729866]
+Particle number: 29 From Island number: 1 Best Score is: -0.950451773343 In Position : [ 5.37781974  5.87363428  5.41094494  5.48580899  5.67536338  5.39876288
+  5.65501354  5.79089665  5.82855638  5.58036972]
+Particle number: 0 From Island number: 2 Best Score is: -0.931437751955 In Position : [ 3.00247262  3.0754175   2.91877011  2.94579344  3.14331216  2.92385881
+  3.175       2.9685706   3.175       3.175     ]
+Particle number: 1 From Island number: 2 Best Score is: -0.941248062993 In Position : [ 2.98320953  2.99688012  2.95794085  2.97842722  3.13535617  2.94058105
+  3.175       2.98132665  3.175       3.175     ]
+Particle number: 2 From Island number: 2 Best Score is: -0.922310009377 In Position : [ 2.87188608  3.01266381  2.98122599  3.01269972  3.175       3.1176259
+  3.175       3.00918993  3.175       3.175     ]
+Particle number: 3 From Island number: 2 Best Score is: -0.929519660009 In Position : [ 2.95234164  3.0009642   3.0259712   3.05443295  3.175       3.13205438
+  3.175       3.10675166  3.12135697  3.175     ]
+Particle number: 4 From Island number: 2 Best Score is: -0.922351077054 In Position : [ 3.06019567  2.97961961  3.03463118  2.96988602  3.16479632  3.175       3.175
+  2.92277714  3.15427923  3.175     ]
+Particle number: 5 From Island number: 2 Best Score is: -0.920525402884 In Position : [ 2.96294643  3.12870613  2.94617749  2.96889773  3.175       2.92954254
+  3.175       2.91666588  3.175       3.175     ]
+Particle number: 6 From Island number: 2 Best Score is: -0.908757700791 In Position : [ 3.00434595  3.0200454   2.9695938   2.82472455  3.175       2.85979896
+  3.175       3.01600183  3.175       3.175     ]
+Particle number: 7 From Island number: 2 Best Score is: -0.93731228894 In Position : [ 3.03485742  2.98864296  2.93890792  2.9655287   3.14175558  3.0684001
+  3.175       2.95811432  3.175       3.175     ]
+Particle number: 8 From Island number: 2 Best Score is: -0.939093360534 In Position : [ 5.50297433  5.80221067  5.64438222  5.49707372  5.86223081  5.5676456
+  5.69485839  5.92357993  5.26284041  5.84518321]
+Particle number: 9 From Island number: 2 Best Score is: -0.92358056553 In Position : [ 2.97520409  2.94173253  3.01870517  3.05498344  3.14307728  2.83348262
+  3.175       2.98281226  3.175       3.175     ]
+Particle number: 10 From Island number: 2 Best Score is: -0.933016715702 In Position : [ 2.97354381  3.07108495  2.9886523   3.07506075  3.12755257  2.89049464
+  3.175       3.0258474   3.175       3.175     ]
+Particle number: 11 From Island number: 2 Best Score is: -0.909236601175 In Position : [ 2.88748498  2.98277023  2.8188401   2.93873525  3.175       3.00663956
+  3.175       3.0394836   3.175       3.175     ]
+Particle number: 12 From Island number: 2 Best Score is: -0.926598429828 In Position : [ 2.96621576  2.9551074   3.05850027  3.03408711  3.175       3.08532322
+  3.175       2.90959631  3.175       3.175     ]
+Particle number: 13 From Island number: 2 Best Score is: -0.932206790862 In Position : [ 2.97973589  3.00643678  2.88452612  2.96362718  3.14253144  2.93620407
+  3.175       2.97120759  3.175       3.175     ]
+Particle number: 14 From Island number: 2 Best Score is: -0.943769329931 In Position : [ 5.62910454  5.75931667  5.78816482  5.73564268  5.51904057  5.71776922
+  5.87796213  5.88747645  5.92016725  5.92833786]
+Particle number: 15 From Island number: 2 Best Score is: -0.937304940084 In Position : [ 3.0197836   3.00697922  2.9580679   2.95278007  3.16997768  3.00678785
+  3.175       2.98203262  3.175       3.175     ]
+Particle number: 16 From Island number: 2 Best Score is: -0.915859968347 In Position : [ 2.86501357  2.99582659  2.85153406  2.96080579  3.15653389  3.04662446
+  3.175       3.03424745  3.175       3.175     ]
+Particle number: 17 From Island number: 2 Best Score is: -0.933707177605 In Position : [ 3.03261904  3.01980878  2.91070913  2.98865622  3.175       3.00295114
+  3.175       2.98635829  3.175       3.175     ]
+Particle number: 18 From Island number: 2 Best Score is: -0.916892519106 In Position : [ 2.98501116  3.03923179  2.90927486  2.93376559  3.175       2.84640696
+  3.175       3.00390298  3.175       3.175     ]
+Particle number: 19 From Island number: 2 Best Score is: -0.931926646735 In Position : [ 3.01999663  3.04804425  3.04698398  2.9600028   3.175       2.91772897
+  3.175       2.99548785  3.175       3.175     ]
+Particle number: 20 From Island number: 2 Best Score is: -0.917679587277 In Position : [ 3.03950964  3.01383919  3.09155494  2.98035213  3.1701116   3.175       3.175
+  3.0654384   3.175       3.175     ]
+Particle number: 21 From Island number: 2 Best Score is: -0.930396875996 In Position : [ 3.00137864  2.99257283  3.10396088  3.03337081  3.17009446  2.99543836
+  3.175       3.08711023  3.175       3.175     ]
+Particle number: 22 From Island number: 2 Best Score is: -0.948520649238 In Position : [ 5.46370145  5.35523907  5.64883729  5.49117385  5.60600069  5.81319584
+  5.65201836  5.38051611  5.95739552  5.55636813]
+Particle number: 23 From Island number: 2 Best Score is: -0.93086774891 In Position : [ 3.10213374  2.97954826  3.02377538  2.92214473  3.16334242  2.99803171
+  3.175       2.96142397  3.175       3.175     ]
+Particle number: 24 From Island number: 2 Best Score is: -0.916202905218 In Position : [ 2.88204147  2.95810406  2.96733992  3.02491594  3.175       2.87725131
+  3.175       2.92059645  3.175       3.175     ]
+Particle number: 25 From Island number: 2 Best Score is: -0.942789837636 In Position : [ 5.46958415  5.9273041   5.52034986  5.58949507  5.52567224  5.79528533
+  5.7933904   5.22514188  5.55869827  5.56348553]
+Particle number: 26 From Island number: 2 Best Score is: -0.927410389346 In Position : [ 2.93294361  2.98351867  3.01495379  3.175       3.11755039  2.94882809
+  3.175       2.97664473  3.175       3.175     ]
+Particle number: 27 From Island number: 2 Best Score is: -0.961919054933 In Position : [ 5.46921294  5.57175629  5.61194946  5.34718463  5.45729399  5.75392622
+  5.80896698  5.67036251  5.85892589  5.66931981]
+Particle number: 28 From Island number: 2 Best Score is: -0.933952833413 In Position : [ 2.91802354  2.92608102  2.92525016  2.91158251  3.17398543  2.99416652
+  3.175       3.09875534  3.02635032  3.175     ]
+Particle number: 29 From Island number: 2 Best Score is: -0.932641958214 In Position : [ 2.90723323  2.9060457   2.95807702  3.00637416  3.13665565  2.968203
+  3.175       3.02472513  3.175       3.175     ]
+Particle number: 0 From Island number: 3 Best Score is: -0.898782840072 In Position : [ 5.77471875  5.61888379  5.61297876  5.43839087  5.23900029  5.81467725
+  5.93933106  5.24460046  5.33864007  5.89430587]
+Particle number: 1 From Island number: 3 Best Score is: -0.848579350335 In Position : [ 3.175  3.175  3.175  3.175  3.175  3.175  3.175  3.175  3.175  3.175]
+Particle number: 2 From Island number: 3 Best Score is: -0.848579350335 In Position : [ 3.175  3.175  3.175  3.175  3.175  3.175  3.175  3.175  3.175  3.175]
+Particle number: 3 From Island number: 3 Best Score is: -0.915704734761 In Position : [ 5.73354894  5.79915696  5.78358676  3.35974916  5.91686754  5.51449879
+  5.66069551  5.56009741  5.69666191  5.73886216]
+Particle number: 4 From Island number: 3 Best Score is: -0.951585099713 In Position : [ 5.59463357  5.84273995  5.3339387   5.53689673  5.71529403  5.53896581
+  5.44327909  5.63159706  5.62535882  5.98095472]
+Particle number: 5 From Island number: 3 Best Score is: -0.89132003876 In Position : [ 5.69723503  5.71408473  5.1661963   5.17274517  5.72802252  5.73458418
+  5.77287082  5.61753925  5.95682297  5.96708421]
+Particle number: 6 From Island number: 3 Best Score is: -0.88623253463 In Position : [ 5.46111129  5.9319374   5.86667281  5.58078039  5.76265196  5.75638347
+  5.61876861  5.01516513  5.78137548  5.29040895]
+Particle number: 7 From Island number: 3 Best Score is: -0.848579350335 In Position : [ 3.175  3.175  3.175  3.175  3.175  3.175  3.175  3.175  3.175  3.175]
+Particle number: 8 From Island number: 3 Best Score is: -0.950535304101 In Position : [ 5.23915618  5.52674402  5.7204727   5.52804853  5.83361082  5.71413834
+  5.67349165  5.54420865  5.75384     5.87333916]
+Particle number: 9 From Island number: 3 Best Score is: -0.848579350335 In Position : [ 3.175  3.175  3.175  3.175  3.175  3.175  3.175  3.175  3.175  3.175]
+Particle number: 10 From Island number: 3 Best Score is: -0.925022371322 In Position : [ 5.05747778  5.85494586  5.55690677  5.37566828  5.61907618  5.60437616
+  5.71523435  5.68810078  5.71611371  5.71272886]
+Particle number: 11 From Island number: 3 Best Score is: -0.907027211943 In Position : [ 5.36420119  5.86096302  5.79402724  5.60986377  5.90800426  5.45430555
+  5.68641137  5.53981176  5.0649821   5.68140739]
+Particle number: 12 From Island number: 3 Best Score is: -0.848579350335 In Position : [ 3.175  3.175  3.175  3.175  3.175  3.175  3.175  3.175  3.175  3.175]
+Particle number: 13 From Island number: 3 Best Score is: -0.848579350335 In Position : [ 3.175  3.175  3.175  3.175  3.175  3.175  3.175  3.175  3.175  3.175]
+Particle number: 14 From Island number: 3 Best Score is: -0.895989797286 In Position : [  5.65124562   5.82060369  10.           5.66880284   5.78166173
+   6.03165341   5.83352413   5.16390075   5.56138802   5.95651932]
+Particle number: 15 From Island number: 3 Best Score is: -0.931941458441 In Position : [ 5.64501014  5.82384283  5.53161983  5.50814183  5.97232444  5.37383518
+  5.6102507   6.01086894  5.5332997   5.86738862]
+Particle number: 16 From Island number: 3 Best Score is: -0.948988243018 In Position : [ 5.70486523  5.88985375  5.51412469  5.39551163  6.03862553  5.61964345
+  5.62289753  5.60593938  5.73211621  5.78249192]
+Particle number: 17 From Island number: 3 Best Score is: -0.894381997106 In Position : [ 5.51713055  5.79765488  5.77594143  5.24320283  5.47022828  5.57269767
+  6.13474938  5.88744045  5.39328121  5.93294666]
+Particle number: 18 From Island number: 3 Best Score is: -0.934914045483 In Position : [ 5.32294964  5.91415313  5.77356564  5.46742631  5.70765967  5.6794791
+  5.68419509  6.06640984  5.55884617  5.71310775]
+Particle number: 19 From Island number: 3 Best Score is: -0.886640144019 In Position : [ 5.78379456  5.85527439  6.11059283  6.12046378  5.47874652  5.96804058
+  5.59421047  5.89256806  5.63507666  5.8324048 ]
+Particle number: 20 From Island number: 3 Best Score is: -0.959933021317 In Position : [ 5.40879148  5.52740802  5.60430322  5.62734062  5.65620318  5.59833115
+  5.78784439  5.91320335  5.68608535  5.9376034 ]
+Particle number: 21 From Island number: 3 Best Score is: -0.961549857935 In Position : [ 5.45525012  5.62490605  5.63473224  5.38215726  5.87290156  5.67814001
+  5.69910271  5.43250708  5.79272863  5.77687466]
+Particle number: 22 From Island number: 3 Best Score is: -0.929320701057 In Position : [ 5.81989901  5.53819664  5.67835526  5.64223872  6.03240545  5.62173379
+  5.58539366  5.62912843  6.12176405  5.84198966]
+Particle number: 23 From Island number: 3 Best Score is: -0.95222161309 In Position : [ 5.3758992   5.74836412  5.51521526  5.39282503  5.58118894  5.62488551
+  5.70951847  5.37035991  5.85518112  5.79518643]
+Particle number: 24 From Island number: 3 Best Score is: -0.919861065214 In Position : [ 5.44318653  5.75942484  5.85263264  5.33806546  5.25612329  5.5669874
+  5.38855204  5.44767713  5.68224822  5.91995205]
+Particle number: 25 From Island number: 3 Best Score is: -0.93087796618 In Position : [ 5.27111125  5.93589506  5.4619642   5.40783702  5.71439307  5.302756
+  5.62387542  5.4920708   5.65198762  5.56425919]
+Particle number: 26 From Island number: 3 Best Score is: -0.848579350335 In Position : [ 3.175  3.175  3.175  3.175  3.175  3.175  3.175  3.175  3.175  3.175]
+Particle number: 27 From Island number: 3 Best Score is: -0.932059643229 In Position : [ 5.70284455  5.54874489  5.8308204   5.36724921  5.89735433  5.71157639
+  5.82582295  5.79537302  5.68077094  6.06451428]
+Particle number: 28 From Island number: 3 Best Score is: -0.922249070096 In Position : [ 5.94374395  5.81107813  5.76006431  5.288623    5.80493879  5.6909043
+  5.3829752   5.26484353  5.59702641  5.62119496]
+Particle number: 29 From Island number: 3 Best Score is: -0.87755743329 In Position : [ 5.5496322   5.43963297  5.53997118  5.95849461  5.86045562  5.43651144
+  5.53095909  5.74397166  5.70095797  4.90716542]
+Particle number: 0 From Island number: 4 Best Score is: -0.985863547605 In Position : [ 5.5953184   5.6341685   5.52720291  5.57073885  5.74128773  5.86672388
+  5.54203698  5.64740164  5.6228617   5.65346411]
+Particle number: 1 From Island number: 4 Best Score is: -0.987249335717 In Position : [ 5.78940098  5.66087954  5.59301414  5.58866605  5.44824706  5.71402062
+  5.57545679  5.61231313  5.54799519  5.6701737 ]
+Particle number: 2 From Island number: 4 Best Score is: -0.978899897032 In Position : [ 5.73681216  5.67280265  5.56895582  5.61998584  5.54198603  5.81188574
+  5.54075972  5.62588089  5.87958306  5.5311253 ]
+Particle number: 3 From Island number: 4 Best Score is: -0.990017902168 In Position : [ 5.69975862  5.63082034  5.55664079  5.59965001  5.56937143  5.83573283
+  5.57732294  5.62356619  5.69705217  5.6082275 ]
+Particle number: 4 From Island number: 4 Best Score is: -0.98794487733 In Position : [ 5.79060199  5.61265402  5.59324261  5.59000447  5.54541602  5.77880832
+  5.57802267  5.59496749  5.50647076  5.64485832]
+Particle number: 5 From Island number: 4 Best Score is: -0.969218245455 In Position : [ 5.93039463  5.60489463  5.5775212   5.59351495  5.66124665  5.81806685
+  5.61714064  5.41091776  5.52622222  5.7358821 ]
+Particle number: 6 From Island number: 4 Best Score is: -0.982151157097 In Position : [ 5.78239365  5.61743712  5.68258316  5.59221788  5.46208503  5.80701682
+  5.5465667   5.61364771  5.5103226   5.55412055]
+Particle number: 7 From Island number: 4 Best Score is: -0.97491751348 In Position : [ 5.70723473  5.7220323   5.55083576  5.61546299  5.8565476   5.85083643
+  5.79014827  5.50867831  5.60098099  5.59317725]
+Particle number: 8 From Island number: 4 Best Score is: -0.989667256035 In Position : [ 5.74439624  5.54949604  5.61550383  5.6309395   5.63944003  5.81937766
+  5.54212616  5.65518927  5.57798681  5.63368349]
+Particle number: 9 From Island number: 4 Best Score is: -0.989490776177 In Position : [ 5.57494493  5.64462324  5.58904943  5.56702179  5.51257758  5.78970097
+  5.57908386  5.62800164  5.74744636  5.57409133]
+Particle number: 10 From Island number: 4 Best Score is: -0.991449176094 In Position : [ 5.67249488  5.62771928  5.55589727  5.62473911  5.5658018   5.76834712
+  5.57408349  5.61732032  5.77151282  5.59648731]
+Particle number: 11 From Island number: 4 Best Score is: -0.969443320564 In Position : [ 5.85308494  5.58076321  5.60269931  5.58582629  5.58353339  5.67118384
+  6.01354342  5.58898872  5.58731484  5.64316587]
+Particle number: 12 From Island number: 4 Best Score is: -0.988335666775 In Position : [ 5.67140387  5.60226312  5.5078735   5.5764277   5.55621319  5.78999592
+  5.52199494  5.61903169  5.73666132  5.61190067]
+Particle number: 13 From Island number: 4 Best Score is: -0.980647719202 In Position : [ 5.57846193  5.65697343  5.47550025  5.68610154  5.49818978  5.84222136
+  5.6566722   5.61485593  5.73090851  5.77256278]
+Particle number: 14 From Island number: 4 Best Score is: -0.940560081058 In Position : [ 6.10846438  5.74194676  5.75062187  5.60710249  5.65235779  5.94655951
+  5.63083948  5.54974271  5.57516685  5.84795204]
+Particle number: 15 From Island number: 4 Best Score is: -0.989710249639 In Position : [ 5.57268192  5.56281531  5.67432437  5.59300197  5.58792147  5.84180779
+  5.5607017   5.68355142  5.61948477  5.58836345]
+Particle number: 16 From Island number: 4 Best Score is: -0.988494933881 In Position : [ 5.67411531  5.56912559  5.52464966  5.66819764  5.53072121  5.78816097
+  5.55799825  5.61985613  5.71333878  5.53855045]
+Particle number: 17 From Island number: 4 Best Score is: -0.981872949264 In Position : [ 5.85146839  5.65133572  5.49123251  5.61142823  5.72549891  5.82370048
+  5.6097413   5.64657609  5.65717619  5.65252634]
+Particle number: 18 From Island number: 4 Best Score is: -0.978163478762 In Position : [ 5.7950141   5.44424314  5.64511943  5.57000084  5.71111424  5.78192126
+  5.51679089  5.60806699  5.73173383  5.77276929]
+Particle number: 19 From Island number: 4 Best Score is: -0.98288806108 In Position : [ 5.45641544  5.62973845  5.7070268   5.59443567  5.5033345   5.66274262
+  5.62395879  5.7579684   5.52094364  5.4704242 ]
+Particle number: 20 From Island number: 4 Best Score is: -0.966176146096 In Position : [ 5.50531839  5.6558573   5.40219222  5.4769556   5.64883343  5.64069483
+  5.67173767  5.43541357  5.46191573  5.86484086]
+Particle number: 21 From Island number: 4 Best Score is: -0.975822452041 In Position : [ 5.65602415  5.93201524  5.58772799  5.60949626  5.5180743   5.628626
+  5.46832432  5.5993054   5.47553436  5.66820937]
+Particle number: 22 From Island number: 4 Best Score is: -0.984793946408 In Position : [ 5.80056641  5.59622302  5.65411339  5.63398951  5.70752839  5.76721032
+  5.75892999  5.60689383  5.47912521  5.66874205]
+Particle number: 23 From Island number: 4 Best Score is: -0.968507004044 In Position : [ 5.43527571  5.81870537  5.61851483  5.5929772   5.4937977   5.6615368
+  5.52119816  5.45527599  5.87366317  5.70961759]
+Particle number: 24 From Island number: 4 Best Score is: -0.981892117605 In Position : [ 5.79329222  5.50011478  5.51948807  5.6365017   5.60298404  5.80023883
+  5.55675343  5.56680608  5.72344715  5.74250374]
+Particle number: 25 From Island number: 4 Best Score is: -0.989712202977 In Position : [ 5.7293717   5.63150807  5.51516794  5.56129029  5.54688596  5.77514767
+  5.61415692  5.58542799  5.62415203  5.54061297]
+Particle number: 26 From Island number: 4 Best Score is: -0.98507829726 In Position : [ 5.61034701  5.59960662  5.52918361  5.44571148  5.70286913  5.80211351
+  5.59956456  5.53480983  5.56592368  5.65834317]
+Particle number: 27 From Island number: 4 Best Score is: -0.981172642739 In Position : [ 5.65666232  5.70356523  5.53388624  5.6414301   5.48382422  5.81958281
+  5.49531903  5.61279945  5.79303553  5.57475727]
+Particle number: 28 From Island number: 4 Best Score is: -0.966402954015 In Position : [ 5.7001613   5.6427421   5.83989164  5.58070454  5.42807235  5.92951013
+  5.55875904  5.73749915  5.49454191  5.57675097]
+Particle number: 29 From Island number: 4 Best Score is: -0.988025677999 In Position : [ 5.73682137  5.61171285  5.58940521  5.73631041  5.65650715  5.70747326
+  5.47064712  5.60358731  5.74530187  5.5587274 ]
+Particle number: 0 From Island number: 5 Best Score is: -0.995983245452 In Position : [ 5.63536996  5.64824874  5.6914134   5.57505412  5.57986057  5.62354977
+  5.61040478  5.657758    5.73386353  5.56732318]
+Particle number: 1 From Island number: 5 Best Score is: -0.996612807926 In Position : [ 5.58796214  5.66962037  5.66214291  5.57621505  5.56017953  5.65187179
+  5.64332158  5.64200574  5.66594238  5.5444403 ]
+Particle number: 2 From Island number: 5 Best Score is: -0.998114208528 In Position : [ 5.67698054  5.64450267  5.57868473  5.62736654  5.64000029  5.62241561
+  5.61305052  5.56224448  5.62481826  5.67333635]
+Particle number: 3 From Island number: 5 Best Score is: -0.997848823372 In Position : [ 5.65284017  5.67882926  5.65162069  5.70865403  5.61497724  5.63582423
+  5.66101805  5.59407376  5.6160763   5.66192445]
+Particle number: 4 From Island number: 5 Best Score is: -0.998574175986 In Position : [ 5.63793794  5.5704532   5.63768631  5.67181295  5.59085477  5.6241484
+  5.61746692  5.59514895  5.65712119  5.63749824]
+Particle number: 5 From Island number: 5 Best Score is: -0.999391891675 In Position : [ 5.64287647  5.63757958  5.6126452   5.66192651  5.65063217  5.6108962
+  5.63440289  5.59306028  5.61998088  5.63458048]
+Particle number: 6 From Island number: 5 Best Score is: -0.999419452854 In Position : [ 5.62919595  5.65635609  5.63197818  5.64113486  5.60911901  5.61036853
+  5.61899489  5.59229141  5.65063535  5.61757168]
+Particle number: 7 From Island number: 5 Best Score is: -0.997573299359 In Position : [ 5.67452838  5.71412976  5.62205679  5.66065175  5.65447608  5.61051283
+  5.64402671  5.64302282  5.60247673  5.57477117]
+Particle number: 8 From Island number: 5 Best Score is: -0.996006917583 In Position : [ 5.6300499   5.63459699  5.6083533   5.71618914  5.56836683  5.66623513
+  5.69670926  5.70044372  5.63263407  5.57798769]
+Particle number: 9 From Island number: 5 Best Score is: -0.996061488429 In Position : [ 5.63248257  5.64739697  5.62943868  5.60543596  5.76289687  5.58085049
+  5.62523227  5.59685057  5.68552425  5.62634952]
+Particle number: 10 From Island number: 5 Best Score is: -0.996841885508 In Position : [ 5.64740813  5.64871165  5.63558686  5.64953538  5.58831097  5.63241798
+  5.7146922   5.70811154  5.6894077   5.62899283]
+Particle number: 11 From Island number: 5 Best Score is: -0.999017574516 In Position : [ 5.63279449  5.64847674  5.61776373  5.65412259  5.61990463  5.62384451
+  5.58036606  5.5844821   5.62352356  5.65334052]
+Particle number: 12 From Island number: 5 Best Score is: -0.996621465664 In Position : [ 5.64315017  5.65664667  5.63081929  5.60391399  5.60657532  5.62090019
+  5.51057761  5.64412404  5.68401109  5.67114127]
+Particle number: 13 From Island number: 5 Best Score is: -0.994287673099 In Position : [ 5.68460215  5.64496679  5.69658987  5.61356427  5.71166331  5.75724399
+  5.6431051   5.65986528  5.69203834  5.63628275]
+Particle number: 14 From Island number: 5 Best Score is: -0.996611187588 In Position : [ 5.65242164  5.62803422  5.74032711  5.66713195  5.60248826  5.6751245
+  5.65908268  5.67574835  5.66174019  5.6133692 ]
+Particle number: 15 From Island number: 5 Best Score is: -0.998554508691 In Position : [ 5.65651488  5.61227089  5.61826273  5.68965705  5.56678283  5.62299947
+  5.62557566  5.61008965  5.63654415  5.63248035]
+Particle number: 16 From Island number: 5 Best Score is: -0.997405396812 In Position : [ 5.66122303  5.64589918  5.64677555  5.65887088  5.57987203  5.61076474
+  5.61662821  5.68283935  5.54683834  5.66490012]
+Particle number: 17 From Island number: 5 Best Score is: -0.997677906473 In Position : [ 5.64722484  5.63625968  5.69562109  5.67190775  5.59356901  5.63525826
+  5.67670173  5.67196691  5.62055614  5.67938626]
+Particle number: 18 From Island number: 5 Best Score is: -0.996796796441 In Position : [ 5.6358527   5.66398578  5.65630128  5.59412441  5.58848574  5.63000795
+  5.58686565  5.67992241  5.68331837  5.71952975]
+Particle number: 19 From Island number: 5 Best Score is: -0.997851790682 In Position : [ 5.69206944  5.66077253  5.62177967  5.66380909  5.61179004  5.64724984
+  5.6205968   5.55038676  5.64911303  5.63403796]
+Particle number: 20 From Island number: 5 Best Score is: -0.9991314501 In Position : [ 5.67275723  5.6460455   5.61820471  5.66513356  5.60721677  5.62097213
+  5.65279194  5.6554004   5.63131806  5.62325525]
+Particle number: 21 From Island number: 5 Best Score is: -0.983610728843 In Position : [ 5.54632337  5.70112506  5.48211817  5.48910736  5.51975597  5.49934835
+  5.52655617  5.69198867  5.5588994   5.66654774]
+Particle number: 22 From Island number: 5 Best Score is: -0.998205629866 In Position : [ 5.6583236   5.61033826  5.561148    5.65573875  5.57706058  5.62489914
+  5.63062463  5.64817903  5.66943545  5.63800748]
+Particle number: 23 From Island number: 5 Best Score is: -0.993837687184 In Position : [ 5.7571835   5.63717792  5.66172685  5.73900022  5.65200159  5.64511007
+  5.60198147  5.65042545  5.63897432  5.71788006]
+Particle number: 24 From Island number: 5 Best Score is: -0.993965378477 In Position : [ 5.61974958  5.62572715  5.67785227  5.70179886  5.60244878  5.59764199
+  5.60028824  5.62561535  5.73997438  5.75646978]
+Particle number: 25 From Island number: 5 Best Score is: -0.998726612187 In Position : [ 5.64754336  5.66936504  5.68360065  5.6379594   5.61706501  5.62286401
+  5.58217442  5.63091185  5.65226032  5.63841424]
+Particle number: 26 From Island number: 5 Best Score is: -0.996727833123 In Position : [ 5.62933106  5.63704608  5.61511706  5.618204    5.60450678  5.54114554
+  5.63209823  5.5740587   5.57708431  5.7087239 ]
+Particle number: 27 From Island number: 5 Best Score is: -0.99637770195 In Position : [ 5.67455947  5.63565142  5.68268609  5.60332375  5.61517355  5.61322319
+  5.51723489  5.66878186  5.65839041  5.67080499]
+Particle number: 28 From Island number: 5 Best Score is: -0.997049554561 In Position : [ 5.56417622  5.65749049  5.60316631  5.57321406  5.67636321  5.62714826
+  5.60243052  5.55191718  5.61938001  5.65887041]
+Particle number: 29 From Island number: 5 Best Score is: -0.99862592855 In Position : [ 5.63729682  5.63849369  5.63291319  5.66934069  5.58302488  5.62159442
+  5.6369124   5.65846595  5.69017254  5.62222936]
+Particle number: 0 From Island number: 6 Best Score is: -0.98844960183 In Position : [ 5.54756072  5.75693827  5.62623737  5.6390389   5.57612797  5.47451208
+  5.56131844  5.69803052  5.57175216  5.52592558]
+Particle number: 1 From Island number: 6 Best Score is: -0.988147015568 In Position : [ 5.69889238  5.76003035  5.60927099  5.54881401  5.67430845  5.5134718
+  5.63088787  5.77364666  5.55725434  5.55485482]
+Particle number: 2 From Island number: 6 Best Score is: -0.976071338762 In Position : [ 5.64370887  5.78481277  5.63403676  5.46758284  5.64945164  5.36912175
+  5.52485704  5.6430647   5.54945984  5.5113343 ]
+Particle number: 3 From Island number: 6 Best Score is: -0.981608137825 In Position : [ 5.59424465  5.78212839  5.57219378  5.53877533  5.51789073  5.4438436
+  5.5711456   5.74789946  5.50401484  5.60355767]
+Particle number: 4 From Island number: 6 Best Score is: -0.981506617117 In Position : [ 5.54195052  5.75261637  5.67669155  5.54072403  5.56405738  5.66201702
+  5.52813113  5.78803082  5.75662905  5.46203928]
+Particle number: 5 From Island number: 6 Best Score is: -0.941450914462 In Position : [ 5.59460503  5.96522843  5.31229627  5.63035352  5.60022236  5.41363051
+  5.44970983  5.80303253  5.43300689  5.51455516]
+Particle number: 6 From Island number: 6 Best Score is: -0.972857688721 In Position : [ 5.63526129  5.51467926  5.78027544  5.76245466  5.684011    5.38400769
+  5.48142249  5.62972447  5.58032931  5.80530049]
+Particle number: 7 From Island number: 6 Best Score is: -0.98607697764 In Position : [ 5.66959443  5.55944842  5.5881937   5.60323537  5.73482418  5.47776591
+  5.52744996  5.50058053  5.57946196  5.50506418]
+Particle number: 8 From Island number: 6 Best Score is: -0.981349230985 In Position : [ 5.62212615  5.72023383  5.40065514  5.67926     5.71244196  5.50207466
+  5.54008998  5.67145663  5.59456499  5.48940957]
+Particle number: 9 From Island number: 6 Best Score is: -0.981781707556 In Position : [ 5.70699023  5.72849384  5.44506985  5.48084554  5.663827    5.47769862
+  5.62125995  5.63762945  5.5780767   5.50502496]
+Particle number: 10 From Island number: 6 Best Score is: -0.945354282312 In Position : [ 5.75758291  5.65660079  5.82617298  5.48517464  5.71698147  5.45799571
+  5.52552683  5.96128075  5.93360127  5.44387961]
+Particle number: 11 From Island number: 6 Best Score is: -0.983711699516 In Position : [ 5.58254519  5.57213951  5.50395726  5.59024691  5.58959198  5.64504735
+  5.57354241  5.58396832  5.61147324  5.9088993 ]
+Particle number: 12 From Island number: 6 Best Score is: -0.981949911705 In Position : [ 5.56749213  5.74983949  5.65077334  5.58476324  5.7774881   5.42795461
+  5.60309001  5.64504743  5.52523317  5.49118099]
+Particle number: 13 From Island number: 6 Best Score is: -0.986686191773 In Position : [ 5.68352629  5.71749786  5.65199078  5.55466853  5.65080578  5.44749283
+  5.49867506  5.68027662  5.55476879  5.53952622]
+Particle number: 14 From Island number: 6 Best Score is: -0.987230754267 In Position : [ 5.58778419  5.55565129  5.55975801  5.82398824  5.58968925  5.47800706
+  5.58327629  5.67904786  5.61104453  5.57502185]
+Particle number: 15 From Island number: 6 Best Score is: -0.97509839808 In Position : [ 5.67014564  5.7221534   5.58020991  5.46796136  5.70188203  5.6525019
+  5.43039306  5.79477925  5.51050732  5.45255142]
+Particle number: 16 From Island number: 6 Best Score is: -0.950748443988 In Position : [ 5.36552062  5.39436423  5.36050889  5.56572649  5.74434441  5.64482598
+  5.68016056  5.5271513   5.73881482  5.8982998 ]
+Particle number: 17 From Island number: 6 Best Score is: -0.988746383943 In Position : [ 5.54396097  5.70907773  5.65192783  5.57110146  5.65192954  5.48388571
+  5.52332055  5.70144573  5.60614051  5.50793067]
+Particle number: 18 From Island number: 6 Best Score is: -0.987252104196 In Position : [ 5.5789506   5.80333731  5.47402035  5.64538043  5.71848706  5.68842237
+  5.63777112  5.67831433  5.57446477  5.54394446]
+Particle number: 19 From Island number: 6 Best Score is: -0.968225772081 In Position : [ 5.65295018  5.74667876  5.61538451  5.58220389  5.88673792  5.42858111
+  5.41046429  5.74940612  5.56674418  5.5107168 ]
+Particle number: 20 From Island number: 6 Best Score is: -0.966731446997 In Position : [ 5.63368405  5.60112892  5.61656802  5.48368714  5.67988701  5.8001445
+  5.62580891  5.532497    5.59543195  6.03382476]
+Particle number: 21 From Island number: 6 Best Score is: -0.982015909607 In Position : [ 5.50886605  5.77142955  5.63222807  5.54190561  5.6835359   5.49080765
+  5.6449457   5.67378609  5.54708821  5.42984461]
+Particle number: 22 From Island number: 6 Best Score is: -0.988291570718 In Position : [ 5.58977168  5.45268237  5.60267682  5.51116537  5.5503299   5.50198461
+  5.64317437  5.67136614  5.58850833  5.63291689]
+Particle number: 23 From Island number: 6 Best Score is: -0.986885198514 In Position : [ 5.5765515   5.77444591  5.54263127  5.56082691  5.63317128  5.53298323
+  5.61935033  5.75217879  5.5480951   5.50042429]
+Particle number: 24 From Island number: 6 Best Score is: -0.978850318598 In Position : [ 5.58661342  5.51525407  5.72066042  5.76049234  5.59154735  5.82045729
+  5.53835374  5.54475831  5.58695991  5.83380421]
+Particle number: 25 From Island number: 6 Best Score is: -0.97281840396 In Position : [ 5.59515255  5.50862362  5.64086718  5.34907634  5.59608268  5.44828695
+  5.51797527  5.68622414  5.57301601  5.48008884]
+Particle number: 26 From Island number: 6 Best Score is: -0.989197663906 In Position : [ 5.71007917  5.7725275   5.58343898  5.73659467  5.65103273  5.56470549
+  5.51953021  5.65691991  5.59523862  5.53070079]
+Particle number: 27 From Island number: 6 Best Score is: -0.971021992784 In Position : [ 5.56581768  5.55487364  5.36528826  5.69955417  5.69066398  5.67854367
+  5.60769892  5.65236341  5.57556215  5.93641026]
+Particle number: 28 From Island number: 6 Best Score is: -0.989632080833 In Position : [ 5.63064352  5.73181369  5.63023712  5.53842098  5.62037081  5.48184085
+  5.55236024  5.70680952  5.5740316   5.52938472]
+Particle number: 29 From Island number: 6 Best Score is: -0.98406778249 In Position : [ 5.75923785  5.7752146   5.6591849   5.64965959  5.64754248  5.47197454
+  5.65056254  5.76184967  5.56225853  5.50903981]
+Particle number: 0 From Island number: 7 Best Score is: -0.91121453569 In Position : [ 5.69900161  5.7140115   5.4113664   5.17734325  5.46341701  5.77434458
+  5.90805721  5.58088118  5.33023063  5.91786305]
+Particle number: 1 From Island number: 7 Best Score is: -0.952740467888 In Position : [ 5.83152587  5.69560206  5.46440009  5.51585516  5.90471337  5.74129767
+  5.94285458  5.59498277  5.54276068  5.81051387]
+Particle number: 2 From Island number: 7 Best Score is: -0.917968527064 In Position : [ 5.59633236  5.64706409  5.42890397  5.4175108   6.23572484  5.66678392
+  5.99354634  5.63898223  5.57586339  5.58262822]
+Particle number: 3 From Island number: 7 Best Score is: -0.905221713765 In Position : [ 5.73314236  5.80068965  5.55444968  5.05240988  5.5761373   5.65229317
+  5.84608981  5.70454206  5.56803941  6.05724818]
+Particle number: 4 From Island number: 7 Best Score is: -0.967961501056 In Position : [ 5.79417864  5.72036633  5.54874629  5.6877368   5.95224591  5.80746616
+  5.78160932  5.55962128  5.63788831  5.69015218]
+Particle number: 5 From Island number: 7 Best Score is: -0.963486368161 In Position : [ 5.71016469  5.5842758   5.68988025  5.45610358  5.63187409  5.67241605
+  5.64327792  5.71742522  5.70817682  6.07068341]
+Particle number: 6 From Island number: 7 Best Score is: -0.969481022434 In Position : [ 5.71619365  5.71473559  5.61339898  5.4044002   5.81782316  5.7796925
+  5.77685699  5.60447838  5.54086121  5.83503594]
+Particle number: 7 From Island number: 7 Best Score is: -0.917626538629 In Position : [ 5.89131534  6.1382751   5.9176681   5.88051219  5.75006167  5.80032236
+  5.67357748  5.84728072  5.65200264  5.70365346]
+Particle number: 8 From Island number: 7 Best Score is: -0.95564856461 In Position : [ 5.82944122  5.84878328  5.36259944  5.49765527  5.77435119  5.74613809
+  5.74853988  5.61728045  5.64111269  5.87621743]
+Particle number: 9 From Island number: 7 Best Score is: -0.982292341227 In Position : [ 5.68569941  5.75605178  5.53766683  5.52552115  5.6258919   5.77961528
+  5.73680919  5.61828972  5.60360318  5.83270573]
+Particle number: 10 From Island number: 7 Best Score is: -0.934778103644 In Position : [ 5.75924061  5.88518395  5.52849792  5.26570081  5.85197754  5.63613396
+  5.80533906  5.6529885   5.73307544  5.95903719]
+Particle number: 11 From Island number: 7 Best Score is: -0.913113966557 In Position : [ 5.65605357  5.33536405  5.80304611  5.92506415  5.30255896  5.76841101
+  5.5875854   6.01093567  5.45850106  5.3899872 ]
+Particle number: 12 From Island number: 7 Best Score is: -0.965244162536 In Position : [ 5.53245457  5.76992169  5.69952003  5.74807585  5.31198146  5.44669138
+  5.77156329  5.55593422  5.6798787   5.71679703]
+Particle number: 13 From Island number: 7 Best Score is: -0.931200797933 In Position : [ 5.72761261  5.80627312  5.61721629  5.76474687  5.56618622  5.96728018
+  3.23433645  5.75861166  5.54882303  5.92032412]
+Particle number: 14 From Island number: 7 Best Score is: -0.914471606527 In Position : [ 5.50103714  5.97826325  5.800036    5.67913297  5.64500102  6.13465956
+  5.94882246  5.60508711  5.71901995  5.87894211]
+Particle number: 15 From Island number: 7 Best Score is: -0.948795033615 In Position : [ 5.58915257  5.60027351  5.6073623   5.43663621  5.53035885  5.71904709
+  5.73687178  5.51438598  5.5832445   6.15801945]
+Particle number: 16 From Island number: 7 Best Score is: -0.874371580364 In Position : [ 5.58854637  5.70093071  5.76020124  4.94173847  5.47294892  5.63308959
+  5.81209329  5.28580345  5.79962555  5.96026918]
+Particle number: 17 From Island number: 7 Best Score is: -0.963186247282 In Position : [ 5.50275035  5.72716511  5.56990298  5.35601412  5.69811977  5.70539882
+  5.63325806  5.6367843   5.61081457  5.9865859 ]
+Particle number: 18 From Island number: 7 Best Score is: -0.938160896209 In Position : [ 5.83226924  5.68616165  5.34875199  5.52864099  5.84091656  5.75600128
+  5.85621392  5.65529531  5.9349795   5.8870921 ]
+Particle number: 19 From Island number: 7 Best Score is: -0.946100899727 In Position : [ 5.35921345  5.81163322  5.5708477   5.67470065  5.4284288   5.79740801
+  6.02424604  5.74438678  5.70329934  5.59067864]
+Particle number: 20 From Island number: 7 Best Score is: -0.894134580582 In Position : [ 5.784157    5.68516523  5.7227557   6.05032522  5.11279303  5.59875441
+  5.70599416  5.581301    5.74776483  6.08579925]
+Particle number: 21 From Island number: 7 Best Score is: -0.950659252402 In Position : [ 5.78140913  5.84399558  5.90545672  5.40569838  5.31440186  5.64816719
+  5.5457446   5.65508263  5.74603078  5.62142217]
+Particle number: 22 From Island number: 7 Best Score is: -0.964519644216 In Position : [ 5.59849915  5.78203298  5.68178567  5.85153644  5.47775821  5.56285337
+  5.44930837  5.49466633  5.79341418  5.8489583 ]
+Particle number: 23 From Island number: 7 Best Score is: -0.82621733941 In Position : [ 5.97931886  5.66386839  5.36103953  5.0941746   6.0767812   6.1239502
+  5.95550103  5.52893507  5.94095843  5.82291857]
+Particle number: 24 From Island number: 7 Best Score is: -0.957725642765 In Position : [ 5.71902367  5.69514803  5.36100063  5.41758744  5.56524322  5.63054775
+  5.80722391  5.60273767  5.69414324  5.95219954]
+Particle number: 25 From Island number: 7 Best Score is: -0.949762461184 In Position : [ 5.81929566  5.50120586  5.83749007  5.41633454  5.89789051  5.64945291
+  5.69816374  5.53180251  5.79165123  5.90392279]
+Particle number: 26 From Island number: 7 Best Score is: -0.943155058277 In Position : [ 5.64044238  5.74039258  5.74951605  5.55368377  5.45895831  5.621662
+  5.71265889  5.42586863  5.93078946  6.05947677]
+Particle number: 27 From Island number: 7 Best Score is: -0.938815428753 In Position : [ 5.62949277  5.96742786  5.44050878  5.56132566  5.74270636  5.63919423
+  5.62421384  5.96326135  5.6978039   5.99430403]
+Particle number: 28 From Island number: 7 Best Score is: -0.961009426831 In Position : [ 5.69188768  5.73939463  5.70111415  5.48582701  5.69089078  5.64918557
+  5.77250765  5.64056991  5.67500433  6.07897215]
+Particle number: 29 From Island number: 7 Best Score is: -0.973793219998 In Position : [ 5.80679503  5.75166046  5.73590467  5.59359887  5.6470397   5.87149742
+  5.44417614  5.6132924   5.61650531  5.76113989]
+Particle number: 0 From Island number: 8 Best Score is: -0.875057968916 In Position : [ 5.69209035  6.2766134   5.64800578  5.74703046  5.87632908  5.60604627
+  5.42894696  5.65431094  5.44495825  5.08585126]
+Particle number: 1 From Island number: 8 Best Score is: -0.866993620253 In Position : [ 4.9030218   5.51413618  5.67763134  5.36779441  5.51726281  5.25469939
+  5.44218782  5.69300346  5.63702781  5.41460467]
+Particle number: 2 From Island number: 8 Best Score is: -0.889983012595 In Position : [ 5.68209261  5.66331652  6.00158913  5.28306127  5.51969414  5.60120492
+  5.62484127  5.930723    5.75585245  5.05616403]
+Particle number: 3 From Island number: 8 Best Score is: -0.87165497205 In Position : [ 5.67485874  5.61527686  5.4797328   5.91699319  5.53961505  5.33901488
+  5.63665035  5.65530004  4.83328694  5.52010424]
+Particle number: 4 From Island number: 8 Best Score is: -0.803935120225 In Position : [ 5.66564825  5.55659844  5.5873565   5.4413774   6.67766435  5.47698088
+  5.61183551  5.36910829  5.61831993  5.00930781]
+Particle number: 5 From Island number: 8 Best Score is: -0.781608680573 In Position : [ 5.85198261  5.77940071  5.35803446  5.41340465  6.63896506  5.16435971
+  5.98556528  5.71518067  5.37801045  5.95599563]
+Particle number: 6 From Island number: 8 Best Score is: -0.841988768238 In Position : [ 5.83265284  5.75008889  5.39419029  6.16599414  5.92013066  5.63223935
+  5.04022295  5.39397537  5.25303066  5.75473119]
+Particle number: 7 From Island number: 8 Best Score is: -0.933547304335 In Position : [ 5.6785814   5.58848487  5.82129426  6.12289021  5.48045337  5.56037747
+  5.50345814  5.92954212  5.69154984  5.43366217]
+Particle number: 8 From Island number: 8 Best Score is: -0.802711124538 In Position : [ 5.03708428  5.8422289   5.60567692  5.40453353  5.66637785  6.03609542
+  6.27870548  5.82167241  5.21672222  5.95886143]
+Particle number: 9 From Island number: 8 Best Score is: -0.862766772646 In Position : [ 5.8035752   5.82523646  5.9502885   5.83334     5.702809    5.73128154
+  5.4808088   5.4222987   5.40849025  6.48529924]
+Particle number: 10 From Island number: 8 Best Score is: -0.953438167691 In Position : [ 5.29526274  5.59513197  5.69950119  5.72583247  5.687436    5.62744979
+  5.43494368  5.76992683  5.71158528  5.32151254]
+Particle number: 11 From Island number: 8 Best Score is: -0.914741215727 In Position : [ 5.53127569  5.71307047  5.35729492  5.64176521  5.34921616  5.32218149
+  6.09380905  5.91725679  5.63730785  5.68711603]
+Particle number: 12 From Island number: 8 Best Score is: -0.951714208764 In Position : [ 5.69404615  5.76775322  5.60937205  5.49436492  5.86642321  5.37070013
+  5.70073547  5.53302159  5.5822187   6.00115907]
+Particle number: 13 From Island number: 8 Best Score is: -0.899743494463 In Position : [ 5.43875676  5.70851126  5.75263734  5.5183974   5.46198445  5.71552404
+  5.57380606  5.69080005  5.20712119  6.27568332]
+Particle number: 14 From Island number: 8 Best Score is: -0.89773456287 In Position : [ 5.66074899  5.64977339  6.05465788  5.61101875  5.68663808  5.64464045
+  6.02462351  5.31053489  5.17091805  5.77816688]
+Particle number: 15 From Island number: 8 Best Score is: -0.889343578939 In Position : [ 5.72038503  5.66821639  5.91768975  5.25738566  5.71857983  5.58806234
+  5.4919564   5.25875724  6.16843672  5.39828105]
+Particle number: 16 From Island number: 8 Best Score is: -0.850748593769 In Position : [ 5.71434795  5.74429734  5.95913656  5.80297526  5.53760245  5.81158503
+  6.50301661  5.31129743  5.49479228  5.35018533]
+Particle number: 17 From Island number: 8 Best Score is: -0.901133858506 In Position : [ 5.65836051  5.58772977  5.48835047  5.65885542  5.68182437  6.15789241
+  5.4964466   6.22553213  5.47650446  5.78658543]
+Particle number: 18 From Island number: 8 Best Score is: -0.868452805288 In Position : [ 5.30625739  5.75138883  5.64276438  5.51377877  5.71123605  4.99622346
+  5.39856053  5.55942374  5.94082172  6.02760393]
+Particle number: 19 From Island number: 8 Best Score is: -0.813530706682 In Position : [ 5.69049507  5.52103075  5.86702742  6.64136252  6.06898518  5.41901455
+  5.91662141  5.68013589  5.7200809   5.28568593]
+Particle number: 20 From Island number: 8 Best Score is: -0.881097710642 In Position : [ 6.40423358  5.4690713   5.72713717  6.00308282  5.43065129  5.69911584
+  5.45485916  5.75699901  5.72346789  5.80989876]
+Particle number: 21 From Island number: 8 Best Score is: -0.913965767072 In Position : [ 5.3561406   5.66403885  5.78803227  5.30689869  5.33233077  5.66276442
+  5.59018796  5.85520991  5.43144898  6.04502206]
+Particle number: 22 From Island number: 8 Best Score is: -0.939284063118 In Position : [ 6.10851371  5.74985233  5.83416152  5.52043859  5.4426174   5.64424233
+  5.5727348   5.73317     5.84069072  5.47114497]
+Particle number: 23 From Island number: 8 Best Score is: -0.908948945277 In Position : [ 5.84708228  5.66207961  5.75619817  5.45243548  5.59025848  5.70969413
+  5.16259459  5.609783    5.35674974  6.07555847]
+Particle number: 24 From Island number: 8 Best Score is: -0.844900038496 In Position : [ 5.25291337  5.75092567  5.37143911  5.1226522   5.21675612  5.44428521
+  5.45023201  5.33493246  5.56829078  6.05213155]
+Particle number: 25 From Island number: 8 Best Score is: -0.920525481731 In Position : [ 5.65734866  5.51691046  5.79267743  5.74260394  5.66361111  5.70668568
+  5.2056817   5.50290131  5.50106816  5.15677732]
+Particle number: 26 From Island number: 8 Best Score is: -0.955163435417 In Position : [ 5.78024714  5.45424348  5.79863162  5.40258709  5.78609554  5.61891489
+  5.55521623  5.91391211  5.48571164  5.78683814]
+Particle number: 27 From Island number: 8 Best Score is: -0.888428535458 In Position : [ 5.74845714  5.83208972  5.90436131  5.57357261  5.76020688  5.9261131
+  5.35456008  6.07093977  5.54036557  5.16262098]
+Particle number: 28 From Island number: 8 Best Score is: -0.979186107322 In Position : [ 5.68935177  5.61627565  5.81640277  5.79156468  5.63659694  5.60217107
+  5.57799133  5.73417393  5.56670136  5.40679692]
+Particle number: 29 From Island number: 8 Best Score is: -0.81253689412 In Position : [ 5.4457213   5.72681974  5.52740116  5.33186567  6.22705772  5.06362496
+  5.21214441  6.07860704  5.40752174  5.50068153]
+Particle number: 0 From Island number: 9 Best Score is: -0.859710362799 In Position : [ 10.  10.  10.  10.  10.  10.  10.  10.  10.  10.]
+Particle number: 1 From Island number: 9 Best Score is: -0.859948342098 In Position : [ 5.54319114  5.90734244  9.8269422   0.25        5.36496173  5.80736057
+  6.32668608  5.52532943  5.61904702  6.01006973]
+Particle number: 2 From Island number: 9 Best Score is: -0.859710362799 In Position : [ 10.  10.  10.  10.  10.  10.  10.  10.  10.  10.]
+Particle number: 3 From Island number: 9 Best Score is: -0.859710362799 In Position : [ 10.  10.  10.  10.  10.  10.  10.  10.  10.  10.]
+Particle number: 4 From Island number: 9 Best Score is: -0.859710362799 In Position : [ 10.  10.  10.  10.  10.  10.  10.  10.  10.  10.]
+Particle number: 5 From Island number: 9 Best Score is: -0.859710362799 In Position : [ 10.  10.  10.  10.  10.  10.  10.  10.  10.  10.]
+Particle number: 6 From Island number: 9 Best Score is: -0.864650528054 In Position : [ 5.10497787  5.50718935  5.51367055  6.28650978  5.79290688  5.41488743
+  5.8079977   5.89152553  5.49650241  5.75072411]
+Particle number: 7 From Island number: 9 Best Score is: -0.859710362799 In Position : [ 10.  10.  10.  10.  10.  10.  10.  10.  10.  10.]
+Particle number: 8 From Island number: 9 Best Score is: -0.882757630825 In Position : [ 5.7869937   5.77167124  5.60434806  5.52499054  5.53695238  5.75687797
+  5.76461759  5.58275651  4.83993789  5.85291414]
+Particle number: 9 From Island number: 9 Best Score is: -0.859710362799 In Position : [ 10.  10.  10.  10.  10.  10.  10.  10.  10.  10.]
+Particle number: 10 From Island number: 9 Best Score is: -0.924123013504 In Position : [ 5.4273754   5.13770246  5.56169647  5.61650911  5.65671346  6.0147675
+  5.49518156  5.55781605  5.65311275  5.45910098]
+Particle number: 11 From Island number: 9 Best Score is: -0.859710362799 In Position : [ 10.  10.  10.  10.  10.  10.  10.  10.  10.  10.]
+Particle number: 12 From Island number: 9 Best Score is: -0.859710362799 In Position : [ 10.  10.  10.  10.  10.  10.  10.  10.  10.  10.]
+Particle number: 13 From Island number: 9 Best Score is: -0.859710362799 In Position : [ 10.  10.  10.  10.  10.  10.  10.  10.  10.  10.]
+Particle number: 14 From Island number: 9 Best Score is: -0.885372586337 In Position : [ 5.39245815  5.89358134  5.52561405  5.50639948  5.07752684  5.50886989
+  5.42715325  5.48248986  5.7569746   3.24065877]
+Particle number: 15 From Island number: 9 Best Score is: -0.859710362799 In Position : [ 10.  10.  10.  10.  10.  10.  10.  10.  10.  10.]
+Particle number: 16 From Island number: 9 Best Score is: -0.859710362799 In Position : [ 10.  10.  10.  10.  10.  10.  10.  10.  10.  10.]
+Particle number: 17 From Island number: 9 Best Score is: -0.859710362799 In Position : [ 10.  10.  10.  10.  10.  10.  10.  10.  10.  10.]
+Particle number: 18 From Island number: 9 Best Score is: -0.859710362799 In Position : [ 10.  10.  10.  10.  10.  10.  10.  10.  10.  10.]
+Particle number: 19 From Island number: 9 Best Score is: -0.859710362799 In Position : [ 10.  10.  10.  10.  10.  10.  10.  10.  10.  10.]
+Particle number: 20 From Island number: 9 Best Score is: -0.859710362799 In Position : [ 10.  10.  10.  10.  10.  10.  10.  10.  10.  10.]
+Particle number: 21 From Island number: 9 Best Score is: -0.889700990233 In Position : [ 5.69811495  6.09001167  5.88409201  5.48733646  5.62033973  5.68208939
+  5.46489585  5.28097664  5.16043795  5.41568489]
+Particle number: 22 From Island number: 9 Best Score is: -0.908207247372 In Position : [ 5.63999891  5.3522816   5.5045858   6.10420691  5.49657718  5.57744692
+  5.73432049  5.25291655  5.71722755  5.96815948]
+Particle number: 23 From Island number: 9 Best Score is: -0.859710362799 In Position : [ 10.  10.  10.  10.  10.  10.  10.  10.  10.  10.]
+Particle number: 24 From Island number: 9 Best Score is: -0.859710362799 In Position : [ 10.  10.  10.  10.  10.  10.  10.  10.  10.  10.]
+Particle number: 25 From Island number: 9 Best Score is: -0.859710362799 In Position : [ 10.  10.  10.  10.  10.  10.  10.  10.  10.  10.]
+Particle number: 26 From Island number: 9 Best Score is: -0.859710362799 In Position : [ 10.  10.  10.  10.  10.  10.  10.  10.  10.  10.]
+Particle number: 27 From Island number: 9 Best Score is: -0.859710362799 In Position : [ 10.  10.  10.  10.  10.  10.  10.  10.  10.  10.]
+Particle number: 28 From Island number: 9 Best Score is: -0.859710362799 In Position : [ 10.  10.  10.  10.  10.  10.  10.  10.  10.  10.]
+Particle number: 29 From Island number: 9 Best Score is: -0.859710362799 In Position : [ 10.  10.  10.  10.  10.  10.  10.  10.  10.  10.]

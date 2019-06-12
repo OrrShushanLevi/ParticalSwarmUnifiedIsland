@@ -28,6 +28,12 @@ class Particle(object) :
         
     def update_position(self,lb,ub):
         self.current_position = self.current_position + self.velocity
+        delta_x =self.velocity
+        for k in range (self.n):
+            if self.current_position[k] < lb or self.current_position[k] > ub :
+                delta_x[k] = -delta_x[k]
+                self.current_position[k]=self.current_position[k]+delta_x[k]
+                
         #enforce boundary conditions
-        self.current_position[self.current_position < lb] = lb
-        self.current_position[self.current_position > ub] = ub
+        #self.current_position[self.current_position < lb] = lb 
+        #self.current_position[self.current_position > ub] = ub 

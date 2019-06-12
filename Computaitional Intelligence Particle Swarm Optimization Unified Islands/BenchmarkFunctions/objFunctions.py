@@ -8,8 +8,17 @@ def GetVincentUB():
 def GetVincentLB():
     return 0.25
 def ModifiedRastrigin(x):
-    return -(np.sum(10 +9*np.cos(2*np.pi*5*x)))
+    K=[4,5]
+    Xk = np.multiply(x,K)
+    return -(np.sum(10 +9*np.cos(2*np.pi*Xk)))
 def GetModifiedRastriginUB():
     return 1
 def GetModifiedRastriginLB():
     return 0
+
+
+
+def rastrigin( x ):
+    D = np.size(x)
+    print(x)
+    return -(10*( D - sum([ np.cos(2*np.pi*xi) for xi in x]) ) + np.dot(x,x)) 

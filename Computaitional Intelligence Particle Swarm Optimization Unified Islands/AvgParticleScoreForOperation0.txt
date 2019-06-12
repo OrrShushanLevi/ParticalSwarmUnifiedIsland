@@ -1,1 +1,1 @@
-Score sum for operation 0is: -272.894322881
+Score sum for operation 0is: -283.336086678

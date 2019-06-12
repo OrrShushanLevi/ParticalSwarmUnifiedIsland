@@ -3,9 +3,12 @@ from BenchmarkFunctions import objFunctions
 import matplotlib.pyplot as plt
 from mpl_toolkits import mplot3d
 import numpy as np
+
 from Classes import Space
 from Classes import Particle
 from Classes import Island
+
+
 
 
 """def main():"""
@@ -24,26 +27,28 @@ if __name__ == "__main__":
     numofparticles = int(f.readline())
     acc_coeff = float(f.readline())
     global_optima_val = float(f.readline())
-    maxevals = 100*dim*dim
+    maxevals = 1000*dim*dim
     boundery_arr= [1]*numofislands
     par_arr = [numofparticles]*numofislands
     acc_coeff_array = [acc_coeff]*numofislands
+    acc_coeff_zeors = [acc_coeff]*numofislands
     dim_arr= [dim]*numofislands
     operation_number=0
-    max_oper=2
+    max_oper=1
     while operation_number<max_oper:
         string = "OperationNumber"+str(operation_number)
         string2=".txt"
         bl=string+string2
-        space = Space.Space(objfunc,maxevals,boundery_arr,numofislands,par_arr,ub,lb,par_arr,acc_coeff_array,acc_coeff_array,boundery_arr,dim_arr,global_optima_val,operation_number)
+        space = Space.Space(objfunc,maxevals,boundery_arr,numofislands,par_arr,ub,lb,par_arr,acc_coeff_array,acc_coeff_zeors,boundery_arr,dim_arr,global_optima_val,operation_number)
+        #space.constructIslandsRandumlly()
         space.constructIslands()
-        space.standardIslandPSO()
-        #space.ConvergingIslandsPSO()
+        #space.standardIslandPSO()
+        space.ConvergingIslandsPSO()
         file=open(bl,"w")
         space.printToFile(file)
         space.printAvgParticleScore()
         operation_number+=1
-    
+
     
     
     

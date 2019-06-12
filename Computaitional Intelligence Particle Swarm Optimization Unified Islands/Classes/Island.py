@@ -21,19 +21,19 @@ class Island(object):
         self.local_state = np.random.RandomState()
         self.globalOptimaValue=global_optimum_value
         self.operationNumber = op_num
+        self.flag=0
     
     def UpdateIsland(self,i,eps,objFunc=lambda x: x.dot(x)):
-        flag = 0
         for k in range(0,self.size):
            self.graph[k].evaluate(objFunc)
-           if self.graph[k].fitness -eps <= self.globalOptimaValue and flag==0:
+           if self.graph[k].fitness -eps <= self.globalOptimaValue and self.flag==0:
                string="GlobalOptForOperation"
                string2 = str(self.operationNumber)
                str3=string+string2+".txt"
                file=open(str3,"w")
                string = "Global Optimum Was found in iteration number " +str(i+k)
                file.write(string)
-               flag=1
+               self.flag=1
                file.close()
            if self.graph[k].fitness < self.fitness_best_g :
                     self.position_best_g = np.copy(self.graph[k].current_position)

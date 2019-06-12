@@ -1,0 +1,600 @@
+Particle number: 0 From Island number: 0 Best Score is: -0.949326997401 In Position : [  5.64438089  10.           0.25        10.           0.25         0.25
+   5.59714971   0.25         0.25         0.25      ]
+Particle number: 1 From Island number: 0 Best Score is: -0.929733419907 In Position : [  9.96166523  10.           0.25        10.           0.25         0.25
+   0.25         0.25         0.25         0.25      ]
+Particle number: 2 From Island number: 0 Best Score is: -0.949471762161 In Position : [  5.64538581  10.           0.25        10.           0.25         0.25
+   5.635772     0.25         0.25         0.25      ]
+Particle number: 3 From Island number: 0 Best Score is: -0.937572644825 In Position : [  5.5741548   10.           0.25        10.           0.25         0.25
+   5.90770631   0.25         0.25         0.25      ]
+Particle number: 4 From Island number: 0 Best Score is: -0.936534152868 In Position : [  5.67371094  10.           0.25        10.           0.25         0.44607982
+  10.           0.25         0.25         0.25      ]
+Particle number: 5 From Island number: 0 Best Score is: -0.950754455141 In Position : [  5.70853843  10.           0.25        10.           0.25         0.45452446
+   5.53298613   0.25         0.25         0.25      ]
+Particle number: 6 From Island number: 0 Best Score is: -0.935293142627 In Position : [  5.66453324  10.           0.25        10.           0.25         0.25
+  10.           0.25         0.25         0.25      ]
+Particle number: 7 From Island number: 0 Best Score is: -0.949382212493 In Position : [  5.59887441  10.           0.25        10.           0.25         0.25
+   5.63023417   0.25         0.25         0.25      ]
+Particle number: 8 From Island number: 0 Best Score is: -0.949375802558 In Position : [  5.60143978  10.           0.25        10.           0.25         0.25
+   5.6149021    0.25         0.25         0.25      ]
+Particle number: 9 From Island number: 0 Best Score is: -0.93748926091 In Position : [  5.64202813  10.           0.25        10.           0.25         0.47143554
+   5.88116766   0.25         0.25064933   0.25      ]
+Particle number: 10 From Island number: 0 Best Score is: -0.950617074673 In Position : [  5.6444049   10.           0.25        10.           0.25         0.46322022
+   5.72208816   0.25         0.25         0.25      ]
+Particle number: 11 From Island number: 0 Best Score is: -0.949378748832 In Position : [  5.60498562  10.           0.25        10.           0.25         0.25
+   5.64752202   0.25         0.25         0.25      ]
+Particle number: 12 From Island number: 0 Best Score is: -0.945115194836 In Position : [  5.69435358  10.           0.25        10.           0.25         0.25
+   0.25         0.25         0.25         0.25      ]
+Particle number: 13 From Island number: 0 Best Score is: -0.908962474911 In Position : [  5.85512914  10.           0.25        10.           0.25         0.4732127
+   6.09283218   0.25         0.25         0.25      ]
+Particle number: 14 From Island number: 0 Best Score is: -0.949152045179 In Position : [  5.67523033  10.           0.25        10.           0.25         0.25
+   5.61432829   0.25         0.25         0.25      ]
+Particle number: 15 From Island number: 0 Best Score is: -0.938258559543 In Position : [  5.4387756   10.           0.25        10.           0.25         0.25
+   5.81819122   0.25         0.25         0.25      ]
+Particle number: 16 From Island number: 0 Best Score is: -0.89636992745 In Position : [  5.31105482  10.           0.25        10.           0.25         0.25
+   6.15018288   0.25         0.25         0.25      ]
+Particle number: 17 From Island number: 0 Best Score is: -0.952038117611 In Position : [  5.64319783  10.           0.25        10.           0.25         0.45327187
+   5.54892185   0.25         0.25         0.25      ]
+Particle number: 18 From Island number: 0 Best Score is: -0.926812909104 In Position : [  5.9014739   10.           0.25        10.           0.25         0.25
+   5.91076394   0.25         0.25         0.25      ]
+Particle number: 19 From Island number: 0 Best Score is: -0.94903101866 In Position : [  5.67519705  10.           0.25        10.           0.25         0.25
+   1.59310703   0.25         0.25         0.25      ]
+Particle number: 20 From Island number: 0 Best Score is: -0.938664078563 In Position : [  5.58714513  10.           0.25        10.           0.25         0.48118618
+   5.59841408   0.25         0.25         0.25      ]
+Particle number: 21 From Island number: 0 Best Score is: -0.929479934064 In Position : [  5.43585277  10.           0.25        10.           0.25         0.25
+  10.           0.25         0.25         0.25      ]
+Particle number: 22 From Island number: 0 Best Score is: -0.935480792654 In Position : [ 10.          10.           0.25        10.           0.25         0.25
+   5.61934155   0.25         0.25         0.25      ]
+Particle number: 23 From Island number: 0 Best Score is: -0.948179151189 In Position : [  5.64215928  10.           0.25        10.           0.25         0.25
+   5.72084301   0.25         0.25         0.25      ]
+Particle number: 24 From Island number: 0 Best Score is: -0.949378653099 In Position : [  5.60036559  10.           0.25        10.           0.25         0.25
+   5.61809959   0.25         0.25         0.25      ]
+Particle number: 25 From Island number: 0 Best Score is: -0.940605263053 In Position : [  1.66818741  10.           0.25        10.           0.25         0.25
+   5.70168303   0.25         0.25         0.25      ]
+Particle number: 26 From Island number: 0 Best Score is: -0.946898350524 In Position : [  5.57998457  10.           0.25        10.           0.25         0.25
+   5.51037612   0.25         0.25         0.25      ]
+Particle number: 27 From Island number: 0 Best Score is: -0.855173461999 In Position : [  5.72507095  10.           0.25        10.           0.25         0.25
+   6.53950694   0.25         0.25         0.25      ]
+Particle number: 28 From Island number: 0 Best Score is: -0.951391364161 In Position : [  5.60763899  10.           0.25        10.           0.25         0.4614864
+   5.54695398   0.25         0.25         0.25      ]
+Particle number: 29 From Island number: 0 Best Score is: -0.939410626029 In Position : [  5.83445322  10.           0.25        10.           0.25         0.25
+   1.64651404   0.25         0.25         0.25      ]
+Particle number: 30 From Island number: 0 Best Score is: -0.947391166659 In Position : [  5.73312367  10.           0.25        10.           0.25         0.25
+   3.03138033   0.25         0.25         0.25      ]
+Particle number: 31 From Island number: 0 Best Score is: -0.94946255297 In Position : [  5.64382281  10.           0.25        10.           0.25         0.25
+   5.64127178   0.25         0.25         0.25      ]
+Particle number: 32 From Island number: 0 Best Score is: -0.936855607205 In Position : [  5.9027195   10.           0.25        10.           0.25         0.25
+   0.86998557   0.25         0.25         0.25      ]
+Particle number: 33 From Island number: 0 Best Score is: -0.943975220648 In Position : [  5.73702739  10.           0.25        10.           0.25         0.25
+   0.25         0.25         0.25         0.25      ]
+Particle number: 34 From Island number: 0 Best Score is: -0.947379971647 In Position : [  5.51582132  10.           0.25        10.           0.25         0.45797353
+   0.25         0.25         0.25         0.25      ]
+Particle number: 35 From Island number: 0 Best Score is: -0.94661544127 In Position : [  5.57581588  10.           0.25        10.           0.25         0.25
+   5.75527582   0.25         0.25         0.25      ]
+Particle number: 36 From Island number: 0 Best Score is: -0.951771991957 In Position : [  5.70473551  10.           0.25        10.           0.25         0.45205953
+   5.59112575   0.25         0.25         0.25      ]
+Particle number: 37 From Island number: 0 Best Score is: -0.57022066631 In Position : [ 3.11569164  5.49803603  3.46269171  5.09801002  2.97974687  1.48633265
+  7.09157359  2.70762714  5.27172559  1.48898449]
+Particle number: 38 From Island number: 0 Best Score is: -0.946208286953 In Position : [  5.58860247  10.           0.25        10.           0.25         0.25
+   5.77003489   0.25         0.25         0.25      ]
+Particle number: 39 From Island number: 0 Best Score is: -0.943487944599 In Position : [  5.71320394  10.           0.25        10.           0.25         0.25
+   5.45402833   0.25         0.25         0.25      ]
+Particle number: 40 From Island number: 0 Best Score is: -0.95095641776 In Position : [  5.73439271  10.           0.25        10.           0.25         0.45656488
+   5.56897241   0.25         0.25         0.25      ]
+Particle number: 41 From Island number: 0 Best Score is: -0.952926980353 In Position : [  5.66908411  10.           0.25        10.           0.25         0.45733283
+   5.6147466    0.25         0.25         0.25      ]
+Particle number: 42 From Island number: 0 Best Score is: -0.948198059711 In Position : [  5.69842799  10.           0.25        10.           0.25         0.25
+   5.56897136   0.25         0.25         0.25      ]
+Particle number: 43 From Island number: 0 Best Score is: -0.946478002914 In Position : [  5.64658681  10.           0.25        10.           0.25         0.25
+   1.56314891   0.25         0.25         0.25      ]
+Particle number: 44 From Island number: 0 Best Score is: -0.943186395678 In Position : [  5.78445308  10.           0.25        10.           0.25         0.45265884
+   5.82998644   0.25         0.25         0.25      ]
+Particle number: 45 From Island number: 0 Best Score is: -0.948688624795 In Position : [  5.56656142  10.           0.25        10.           0.25         0.25
+   1.61263369   0.25         0.25         0.25      ]
+Particle number: 46 From Island number: 0 Best Score is: -0.952731509192 In Position : [  5.64863749  10.           0.25        10.           0.25         0.45239028
+   5.66071103   0.25         0.25         0.25      ]
+Particle number: 47 From Island number: 0 Best Score is: -0.949520133753 In Position : [  5.63214002  10.           0.25        10.           0.25         0.25
+   5.62556008   0.25         0.25         0.25      ]
+Particle number: 48 From Island number: 0 Best Score is: -0.942612092588 In Position : [  5.723434    10.           0.25        10.           0.25         0.25
+   2.90424031   0.25         0.25         0.25      ]
+Particle number: 49 From Island number: 0 Best Score is: -0.949343878793 In Position : [  5.60388357  10.           0.25        10.           0.25         0.25
+   5.6059101    0.25         0.25         0.25      ]
+Particle number: 50 From Island number: 0 Best Score is: -0.944454027374 In Position : [  5.54614964  10.           0.25        10.           0.25         0.25
+   5.47157472   0.25         0.25         0.25      ]
+Particle number: 51 From Island number: 0 Best Score is: -0.945785560647 In Position : [  5.62552372  10.           0.25        10.           0.25         0.25
+   0.25         0.25         0.25         0.25      ]
+Particle number: 52 From Island number: 0 Best Score is: -0.93876268684 In Position : [  5.53847695  10.           0.25        10.           0.25         0.25
+   3.13742241   0.25         0.25         0.25      ]
+Particle number: 53 From Island number: 0 Best Score is: -0.94398221805 In Position : [  5.62106523  10.           0.25        10.           0.25         0.45606944
+   5.87831092   0.25         0.25         0.25      ]
+Particle number: 54 From Island number: 0 Best Score is: -0.938811985242 In Position : [  5.88898699  10.           0.25        10.           0.25         0.25
+   5.56408073   0.25         0.25         0.25      ]
+Particle number: 55 From Island number: 0 Best Score is: -0.943958422028 In Position : [  5.49726319   9.98962293   0.25        10.           0.25         0.25
+   3.06737319   0.25         0.25         0.25      ]
+Particle number: 56 From Island number: 0 Best Score is: -0.933741108951 In Position : [  5.73524427  10.           0.25        10.           0.25         0.25
+  10.           0.25         0.25         0.25      ]
+Particle number: 57 From Island number: 0 Best Score is: -0.950541055589 In Position : [  5.63082457  10.           0.25        10.           0.25         0.45144992
+   5.74902721   0.25         0.25         0.25      ]
+Particle number: 58 From Island number: 0 Best Score is: -0.94705997132 In Position : [  5.61332589  10.           0.25        10.           0.25         0.44017397
+   5.64373262   0.25         0.25         0.25      ]
+Particle number: 59 From Island number: 0 Best Score is: -0.948384834748 In Position : [  5.57968511  10.           0.25        10.           0.25         0.25
+   5.69840248   0.25         0.25         0.25      ]
+Particle number: 60 From Island number: 0 Best Score is: -0.947333227454 In Position : [  5.53715087  10.           0.25        10.           0.25         0.25
+   5.55575501   0.25         0.25         0.25      ]
+Particle number: 61 From Island number: 0 Best Score is: -0.945526147613 In Position : [  5.66068129  10.           0.25        10.           0.25         0.25
+   5.47441451   0.25         0.25         0.25      ]
+Particle number: 62 From Island number: 0 Best Score is: -0.946918337948 In Position : [  5.74292298  10.           0.25        10.           0.25         0.25
+   5.69037533   0.25         0.25         0.25      ]
+Particle number: 63 From Island number: 0 Best Score is: -0.9392970101 In Position : [  5.52385745  10.           0.25        10.           0.25         0.25
+   5.86684527   0.25         0.25         0.25      ]
+Particle number: 64 From Island number: 0 Best Score is: -0.949394927294 In Position : [  5.61832921  10.           0.25        10.           0.25         0.25
+   5.65535203   0.25         0.25         0.25      ]
+Particle number: 65 From Island number: 0 Best Score is: -0.926816697234 In Position : [  5.45185576  10.           0.25        10.           0.25         0.25118038
+   5.96393045   0.25         0.25         0.25      ]
+Particle number: 66 From Island number: 0 Best Score is: -0.914013713208 In Position : [  5.33886084  10.           0.25        10.           0.25         0.45326375
+   6.0544064    0.25         0.25         0.25      ]
+Particle number: 67 From Island number: 0 Best Score is: -0.938427167966 In Position : [  5.86103097  10.           0.25        10.           0.25         0.25
+   5.76924514   0.25         0.25         0.25      ]
+Particle number: 68 From Island number: 0 Best Score is: -0.948298237175 In Position : [  5.58702509  10.           0.25        10.           0.25         0.25
+   5.70685049   0.25         0.25         0.25      ]
+Particle number: 69 From Island number: 0 Best Score is: -0.932637632087 In Position : [  3.03378589  10.           0.25        10.           0.25         0.25
+   9.95606412   0.25         0.25         0.25      ]
+Particle number: 70 From Island number: 0 Best Score is: -0.940728178928 In Position : [  5.8708497   10.           0.25        10.           0.25         0.25
+   5.61023799   0.25         0.25         0.25      ]
+Particle number: 71 From Island number: 0 Best Score is: -0.94791540393 In Position : [  5.650008    10.           0.25        10.           0.25         0.25
+   5.72836131   0.25         0.25         0.25      ]
+Particle number: 72 From Island number: 0 Best Score is: -0.947507715744 In Position : [  5.67515017  10.           0.25        10.           0.25         0.25
+   5.52636508   0.25         0.25         0.25      ]
+Particle number: 73 From Island number: 0 Best Score is: -0.947007855113 In Position : [  5.59134435  10.           0.25        10.           0.25         0.25
+   5.50916993   0.25         0.25         0.25      ]
+Particle number: 74 From Island number: 0 Best Score is: -0.944140526507 In Position : [  5.79112021  10.           0.25        10.           0.25         0.25
+   5.72250824   0.25         0.25         0.25      ]
+Particle number: 75 From Island number: 0 Best Score is: -0.948987990595 In Position : [  5.66986372  10.           0.25        10.           0.25         0.25
+   5.67021182   0.25         0.25         0.25      ]
+Particle number: 76 From Island number: 0 Best Score is: -0.951073887185 In Position : [  5.63277377  10.           0.25        10.           0.25         0.44965559
+   5.54127244   0.25         0.25         0.25      ]
+Particle number: 77 From Island number: 0 Best Score is: -0.918942887273 In Position : [  6.0378718   10.           0.25        10.           0.25         0.25
+   3.11760144   0.25         0.25         0.25      ]
+Particle number: 78 From Island number: 0 Best Score is: -0.944532032858 In Position : [  3.09961611  10.           0.25        10.           0.25         0.25
+   5.6246972    0.25         0.25         0.25      ]
+Particle number: 79 From Island number: 0 Best Score is: -0.947973595553 In Position : [  5.59333183  10.           0.25        10.           0.25         0.25
+   5.72209788   0.25         0.25         0.25      ]
+Particle number: 80 From Island number: 0 Best Score is: -0.949215467642 In Position : [  5.60368061  10.           0.25        10.           0.25         0.25
+   5.66520024   0.25         0.25         0.25      ]
+Particle number: 81 From Island number: 0 Best Score is: -0.948855602868 In Position : [  5.64364383  10.           0.25        10.           0.25         0.25
+   5.69239603   0.25         0.25         0.25      ]
+Particle number: 82 From Island number: 0 Best Score is: -0.922163111861 In Position : [  5.28795499  10.           0.25        10.           0.25         0.25
+   3.13008365   0.25         0.25         0.25      ]
+Particle number: 83 From Island number: 0 Best Score is: -0.949232293522 In Position : [  5.65661817  10.           0.25        10.           0.25         0.25
+   5.59607475   0.25         0.25         0.25      ]
+Particle number: 84 From Island number: 0 Best Score is: -0.94858217707 In Position : [  5.58250396  10.           0.25         9.9893353    0.25         0.25
+   5.6105105    0.25         0.25         0.25      ]
+Particle number: 85 From Island number: 0 Best Score is: -0.951195320253 In Position : [  5.64523387  10.           0.25        10.           0.25         0.44761662
+   5.58313925   0.25         0.25         0.25      ]
+Particle number: 86 From Island number: 0 Best Score is: -0.946558379199 In Position : [  5.51886115  10.           0.25        10.           0.25         0.25
+   5.5484023    0.25         0.25         0.25      ]
+Particle number: 87 From Island number: 0 Best Score is: -0.947267193621 In Position : [  5.573397    10.           0.25        10.           0.25         0.44317984
+   5.5317403    0.25         0.25         0.25      ]
+Particle number: 88 From Island number: 0 Best Score is: -0.501267494621 In Position : [ 4.60864138  3.01146954  2.58410062  2.99758725  5.92125848  1.63000324
+  6.15113207  9.35612189  5.66816202  4.57082392]
+Particle number: 89 From Island number: 0 Best Score is: -0.943443535592 In Position : [  2.92154411  10.           0.25        10.           0.25         0.47219251
+   5.62624233   0.25         0.25         0.25      ]
+Particle number: 90 From Island number: 0 Best Score is: -0.949503700701 In Position : [  5.62905367  10.           0.25        10.           0.25         0.25
+   5.63990821   0.25         0.25         0.25      ]
+Particle number: 91 From Island number: 0 Best Score is: -0.948637239158 In Position : [  5.55704079  10.           0.25        10.           0.25         0.25
+   5.64931834   0.25         0.25         0.25      ]
+Particle number: 92 From Island number: 0 Best Score is: -0.949511079742 In Position : [  5.63051501  10.           0.25        10.           0.25         0.25
+   5.61999031   0.25         0.25         0.25      ]
+Particle number: 93 From Island number: 0 Best Score is: -0.952666785602 In Position : [  5.65491286  10.           0.25        10.           0.25         0.45177912
+   5.60833632   0.25         0.25         0.25      ]
+Particle number: 94 From Island number: 0 Best Score is: -0.948834699593 In Position : [  5.56541633  10.           0.25        10.           0.25         0.25
+   5.6108042    0.25         0.25         0.25      ]
+Particle number: 95 From Island number: 0 Best Score is: -0.935821203234 In Position : [  5.63773528  10.           0.25        10.           0.25         0.43242815
+   0.25         0.25         0.25         0.25      ]
+Particle number: 96 From Island number: 0 Best Score is: -0.948820809067 In Position : [  5.64521431  10.           0.25        10.           0.25         0.45476634
+   5.79806641   0.25         0.25         0.25      ]
+Particle number: 97 From Island number: 0 Best Score is: -0.945710114997 In Position : [  5.73890944  10.           0.25        10.           0.25         0.25
+   5.74080673   0.25         0.25         0.25      ]
+Particle number: 98 From Island number: 0 Best Score is: -0.9236636754 In Position : [  2.80596448  10.           0.25        10.           0.25         0.25
+   0.25         0.25         0.25         0.25      ]
+Particle number: 99 From Island number: 0 Best Score is: -0.935916318322 In Position : [  5.72149913  10.           0.25        10.           0.25         0.25
+   5.35382474   0.25         0.25         0.25      ]
+Particle number: 100 From Island number: 0 Best Score is: -0.939535560955 In Position : [  5.60738542  10.           0.25        10.           0.25         0.25
+   5.3814942    0.25         0.25         0.25      ]
+Particle number: 101 From Island number: 0 Best Score is: -0.947475740227 In Position : [  5.58779275  10.           0.25        10.           0.25         0.44113213
+   5.65617435   0.25         0.25         0.25      ]
+Particle number: 102 From Island number: 0 Best Score is: -0.949072241923 In Position : [  5.61287687  10.           0.25        10.           0.25         0.25
+   5.57781972   0.25         0.25         0.25      ]
+Particle number: 103 From Island number: 0 Best Score is: -0.948750792172 In Position : [  5.57392522  10.           0.25        10.           0.25         0.25
+   5.67211623   0.25         0.25         0.25      ]
+Particle number: 104 From Island number: 0 Best Score is: -0.907523219796 In Position : [  5.54531593  10.           0.25        10.           0.25         0.41533317
+   5.7945438    0.25         0.25         0.25      ]
+Particle number: 105 From Island number: 0 Best Score is: -0.911195882392 In Position : [  5.43140169  10.           0.25        10.           0.25         0.25
+   6.11179377   0.25         0.25         0.25      ]
+Particle number: 106 From Island number: 0 Best Score is: -0.900361134933 In Position : [  5.39899945  10.           0.25        10.           0.25         0.25
+   6.18028229   0.25         0.25         0.25      ]
+Particle number: 107 From Island number: 0 Best Score is: -0.9470271303 In Position : [  5.70124635  10.           0.25        10.           0.25         0.25
+   5.73287278   0.25         0.25         0.25      ]
+Particle number: 108 From Island number: 0 Best Score is: -0.952033658147 In Position : [  5.65528394  10.           0.25        10.           0.25         0.4546737
+   5.54661927   0.25         0.25         0.25      ]
+Particle number: 109 From Island number: 0 Best Score is: -0.950569886286 In Position : [  5.6705692   10.           0.25        10.           0.25         0.46396765
+   5.70457339   0.25         0.25         0.25      ]
+Particle number: 110 From Island number: 0 Best Score is: -0.935492576539 In Position : [  5.62511079  10.           0.25        10.           0.25         0.25
+  10.           0.25         0.25         0.25      ]
+Particle number: 111 From Island number: 0 Best Score is: -0.765569030251 In Position : [ 6.09608879  6.17544804  0.25        2.90986638  0.86380545  0.84207118
+  4.94749429  0.25        0.25        4.93753782]
+Particle number: 112 From Island number: 0 Best Score is: -0.700608310524 In Position : [ 3.14786236  5.91321601  6.47199788  5.49564245  3.87862873  1.60415758
+  5.65269916  5.62431847  0.25        0.25      ]
+Particle number: 113 From Island number: 0 Best Score is: -0.94951440512 In Position : [  5.62232552  10.           0.25        10.           0.25         0.25
+   5.63287079   0.25         0.25         0.25      ]
+Particle number: 114 From Island number: 0 Best Score is: -0.946194152406 In Position : [  5.48916528  10.           0.25        10.           0.25         0.25
+   5.6640358    0.25         0.25         0.25      ]
+Particle number: 115 From Island number: 0 Best Score is: -0.930880234264 In Position : [  5.8867803    0.25         0.25        10.           0.25         0.48104444
+   5.8711718    0.25         0.25         0.25      ]
+Particle number: 116 From Island number: 0 Best Score is: -0.924791820511 In Position : [  6.07931413  10.           0.25        10.           0.25         0.452748
+   5.62536907   0.25         0.25         0.25      ]
+Particle number: 117 From Island number: 0 Best Score is: -0.945945906676 In Position : [  2.92759225  10.           0.25        10.           0.25         0.25
+   5.67765257   0.25         0.25         0.25      ]
+Particle number: 118 From Island number: 0 Best Score is: -0.889253379114 In Position : [ 10.          10.           0.92158006  10.           0.25         0.25
+   6.03066666   0.25         0.25         0.25      ]
+Particle number: 119 From Island number: 0 Best Score is: -0.947303221061 In Position : [  5.53838985  10.           0.25        10.           0.25         0.25
+   2.9624472    0.25         0.25         0.25      ]
+Particle number: 120 From Island number: 0 Best Score is: -0.943785004737 In Position : [  5.82198613  10.           0.25        10.           0.25         0.25
+   5.60459601   0.25         0.25         0.25      ]
+Particle number: 121 From Island number: 0 Best Score is: -0.946528872458 In Position : [  5.51459228  10.           0.25        10.           0.25         0.25
+   5.55340131   0.25         0.25         0.25      ]
+Particle number: 122 From Island number: 0 Best Score is: -0.93328761411 In Position : [  5.32643623  10.           0.25        10.           0.25         0.25
+   5.72333092   0.25         0.25         0.25      ]
+Particle number: 123 From Island number: 0 Best Score is: -0.919461621595 In Position : [  5.42418382  10.           0.25        10.           0.25         0.25
+   6.03470657   0.25         0.25         0.25      ]
+Particle number: 124 From Island number: 0 Best Score is: -0.837550573866 In Position : [  6.08755649   1.86198762   0.25        10.           0.25         2.89186536
+   2.98248595   0.25         0.25         0.25      ]
+Particle number: 125 From Island number: 0 Best Score is: -0.947041044111 In Position : [  5.50675403  10.           0.25        10.           0.25         0.25
+   5.60434412   0.25         0.25         0.25      ]
+Particle number: 126 From Island number: 0 Best Score is: -0.93680827449 In Position : [  5.87423701  10.           0.25        10.           0.25         0.25
+   0.25         0.25         0.25         0.25      ]
+Particle number: 127 From Island number: 0 Best Score is: -0.947837483613 In Position : [  5.49595331  10.           0.25        10.           0.25         0.45589678
+   5.50179014   0.25         0.25         0.25      ]
+Particle number: 128 From Island number: 0 Best Score is: -0.940464115508 In Position : [  5.74578878  10.           0.25        10.           0.25         0.25
+   5.4215528    0.25         0.25         0.25      ]
+Particle number: 129 From Island number: 0 Best Score is: -0.945876126008 In Position : [  5.67686695  10.           0.25        10.           0.25         0.44673128
+   5.80931486   0.25         0.25         0.25      ]
+Particle number: 130 From Island number: 0 Best Score is: -0.948352011368 In Position : [  5.54979587  10.           0.25        10.           0.25         0.25
+   5.66228567   0.25         0.25         0.25      ]
+Particle number: 131 From Island number: 0 Best Score is: -0.950153824705 In Position : [  5.61369448  10.           0.25        10.           0.25         0.44839483
+   5.5262407    0.25         0.25         0.25      ]
+Particle number: 132 From Island number: 0 Best Score is: -0.947732164536 In Position : [  5.55731772  10.           0.25        10.           0.25         0.25
+   5.5504347    0.25         0.25         0.25      ]
+Particle number: 133 From Island number: 0 Best Score is: -0.949273293978 In Position : [  5.59445848  10.           0.25        10.           0.25         0.25
+   5.6489092    0.25         0.25         0.25      ]
+Particle number: 134 From Island number: 0 Best Score is: -0.899108753671 In Position : [  5.59073785  10.           0.25        10.           0.25         0.25
+   5.40675799   0.25         0.25         1.44958019]
+Particle number: 135 From Island number: 0 Best Score is: -0.607071661818 In Position : [ 5.01109114  5.55843592  0.25        6.47503746  1.65684539  0.96870417
+  5.08664741  2.92776381  3.52662763  3.18458762]
+Particle number: 136 From Island number: 0 Best Score is: -0.948894645395 In Position : [  5.74520765  10.           0.25         9.99911874   0.25         0.25
+   5.74601168   0.25         0.25         0.4580617 ]
+Particle number: 137 From Island number: 0 Best Score is: -0.946691637822 In Position : [  5.49603499  10.           0.25        10.           0.25         0.25
+   5.6256124    0.25         0.25         0.25      ]
+Particle number: 138 From Island number: 0 Best Score is: -0.871800695943 In Position : [  3.43389987  10.           0.25        10.           0.25         0.25
+   5.5747815    0.25         0.25         0.25      ]
+Particle number: 139 From Island number: 0 Best Score is: -0.947887416473 In Position : [  5.56735975  10.           0.25        10.           0.25         0.25
+   5.54814887   0.25         0.25         0.25      ]
+Particle number: 140 From Island number: 0 Best Score is: -0.949509206374 In Position : [  5.63780805  10.           0.25        10.           0.25         0.25
+   5.63148967   0.25         0.25         0.25      ]
+Particle number: 141 From Island number: 0 Best Score is: -0.952573170532 In Position : [  5.60788071  10.           0.25        10.           0.25         0.45703454
+   5.69016148   0.25         0.25         0.25      ]
+Particle number: 142 From Island number: 0 Best Score is: -0.805945653239 In Position : [  5.46416617  10.           0.25        10.           0.25         5.24347595
+   5.90555212   0.25         0.74115107   1.73356743]
+Particle number: 143 From Island number: 0 Best Score is: -0.946041365826 In Position : [  5.74945446  10.           0.25        10.           0.25         0.25
+   5.71802237   0.25         0.25         0.25      ]
+Particle number: 144 From Island number: 0 Best Score is: -0.949165702328 In Position : [  5.67376096  10.           0.25        10.           0.25         0.25
+   5.64461347   0.25         0.25         0.25      ]
+Particle number: 145 From Island number: 0 Best Score is: -0.949464080269 In Position : [  5.64724115  10.           0.25        10.           0.25         0.25
+   5.62288049   0.25         0.25         0.25      ]
+Particle number: 146 From Island number: 0 Best Score is: -0.949221351302 In Position : [  5.63573357  10.           0.25        10.           0.25         0.25
+   0.8612205    0.25         0.25         0.25      ]
+Particle number: 147 From Island number: 0 Best Score is: -0.94618009693 In Position : [  5.73431292  10.           0.25        10.           0.25         0.25
+   2.94919526   0.25         0.25         0.25      ]
+Particle number: 148 From Island number: 0 Best Score is: -0.94196300267 In Position : [  5.44014527   9.99411319   0.25        10.           0.25         0.25
+   5.72749307   0.25         0.25         0.25      ]
+Particle number: 149 From Island number: 0 Best Score is: -0.949424035699 In Position : [  5.60612131  10.           0.25        10.           0.25         0.25
+   5.63962751   0.25         0.25         0.25      ]
+Particle number: 150 From Island number: 0 Best Score is: -0.945787112385 In Position : [  5.62827229  10.           0.25        10.           0.25         0.25
+   0.25         0.25         0.25         0.25      ]
+Particle number: 151 From Island number: 0 Best Score is: -0.945135628417 In Position : [  0.25        10.           0.25         9.99781357   0.25         0.25
+   5.68749117   0.25         0.25         0.25      ]
+Particle number: 152 From Island number: 0 Best Score is: -0.941346688836 In Position : [  5.51086018  10.           0.25        10.           0.25         0.25
+   5.82720986   0.25         0.25         0.25      ]
+Particle number: 153 From Island number: 0 Best Score is: -0.949445501769 In Position : [  5.62023141  10.           0.25        10.           0.25         0.25
+   5.64929185   0.25         0.25         0.25      ]
+Particle number: 154 From Island number: 0 Best Score is: -0.938041753709 In Position : [  5.60202506  10.           0.25        10.           0.25         0.25
+   5.36409456   0.25         0.25         0.25      ]
+Particle number: 155 From Island number: 0 Best Score is: -0.947734742085 In Position : [  5.55084038  10.           0.25        10.           0.25         0.25
+   5.56199238   0.25         0.25010184   0.25      ]
+Particle number: 156 From Island number: 0 Best Score is: -0.939322567826 In Position : [  5.48292125  10.           0.25        10.           0.25         0.25
+   2.89367187   0.25         0.25         0.25      ]
+Particle number: 157 From Island number: 0 Best Score is: -0.9481699073 In Position : [  5.69032282  10.           0.25        10.           0.25         0.25
+   5.55962046   0.25         0.25         0.25      ]
+Particle number: 158 From Island number: 0 Best Score is: -0.721111732138 In Position : [ 6.19921488  5.94808574  0.25        5.95533063  2.7732746   2.87338485
+  4.91367398  3.16808859  1.4467184   2.80826633]
+Particle number: 159 From Island number: 0 Best Score is: -0.948815316195 In Position : [  5.56419405  10.           0.25        10.           0.25         0.25
+   5.645595     0.25         0.25         0.25      ]
+Particle number: 160 From Island number: 0 Best Score is: -0.936927629784 In Position : [  5.76268492  10.           0.25        10.           0.25         2.91025154
+   5.87044393   0.25         0.25         0.25      ]
+Particle number: 161 From Island number: 0 Best Score is: -0.948034472393 In Position : [  5.71814475  10.           0.25        10.           0.25         0.25
+   5.66851053   0.25         0.25         0.25      ]
+Particle number: 162 From Island number: 0 Best Score is: -0.888877714448 In Position : [  5.67750897  10.           0.25        10.           0.25         0.25
+   5.5199458    0.25         0.75934313   0.25      ]
+Particle number: 163 From Island number: 0 Best Score is: -0.949090216322 In Position : [  5.59759271  10.           0.25        10.           0.25         0.25
+   5.58671482   0.25         0.25         0.25      ]
+Particle number: 164 From Island number: 0 Best Score is: -0.951998498922 In Position : [  5.56814785  10.           0.25        10.           0.25         0.45677152
+   5.5643171    0.25         0.25         0.25      ]
+Particle number: 165 From Island number: 0 Best Score is: -0.937845956282 In Position : [  5.53701017  10.           0.25        10.           0.25         0.25
+   5.37638787   0.25         0.25         0.25      ]
+Particle number: 166 From Island number: 0 Best Score is: -0.927207863396 In Position : [  6.0355585   10.           0.25        10.           0.25         0.25
+   5.66767195   0.25         0.25         0.44597317]
+Particle number: 167 From Island number: 0 Best Score is: -0.882413918126 In Position : [  6.15543908  10.           0.25        10.           5.99199017
+   3.06129201   5.31124367   0.25         0.25         0.25      ]
+Particle number: 168 From Island number: 0 Best Score is: -0.930324856294 In Position : [  5.6950856   10.           0.25        10.           0.25         0.25
+   5.29122023   0.25         0.25         0.25      ]
+Particle number: 169 From Island number: 0 Best Score is: -0.939845434634 In Position : [  5.54642701  10.           0.25        10.           0.25         0.25
+   5.86875824   0.25         0.25         0.25      ]
+Particle number: 170 From Island number: 0 Best Score is: -0.947922454078 In Position : [  5.68974129  10.           0.25        10.           0.25         0.25
+   5.54880846   0.25         0.25         0.25      ]
+Particle number: 171 From Island number: 0 Best Score is: -0.948695471121 In Position : [  5.63880319  10.           0.25        10.           0.25         0.25
+   5.55736456   0.25         0.25         0.25      ]
+Particle number: 172 From Island number: 0 Best Score is: -0.943938218629 In Position : [  5.5366179  10.          0.25       10.          0.25        0.25
+   2.9164676   0.25        0.25        0.25     ]
+Particle number: 173 From Island number: 0 Best Score is: -0.947856391713 In Position : [  5.71022109  10.           0.25        10.           0.25         0.44276074
+   5.60339432   0.25         0.25         0.25      ]
+Particle number: 174 From Island number: 0 Best Score is: -0.946564660389 In Position : [  5.49318858  10.           0.25        10.           0.25         0.25
+   5.63419552   0.25         0.25         0.25      ]
+Particle number: 175 From Island number: 0 Best Score is: -0.949050114833 In Position : [  5.63524097  10.           0.25        10.           0.25         0.25
+   5.57454806   0.25         0.25         0.25      ]
+Particle number: 176 From Island number: 0 Best Score is: -0.947871087787 In Position : [  5.67793654  10.           0.25        10.           0.25         0.25
+   5.53948421   0.25         0.25         0.25      ]
+Particle number: 177 From Island number: 0 Best Score is: -0.945940100671 In Position : [  5.73832154  10.           0.25         9.96737252   0.25         0.25
+   5.6193892    0.25         0.25         0.25      ]
+Particle number: 178 From Island number: 0 Best Score is: -0.948454135421 In Position : [  5.65085795  10.           0.25        10.           0.25         0.44955532
+   0.25         0.25         0.25         0.25      ]
+Particle number: 179 From Island number: 0 Best Score is: -0.91809009101 In Position : [  6.05539674  10.           0.25        10.           0.25         0.47656184
+   5.63685426   0.25         0.25         0.25      ]
+Particle number: 180 From Island number: 0 Best Score is: -0.937088409911 In Position : [  5.69431808  10.           0.25        10.           0.25         0.25142947
+   5.88923458   0.25         0.25         0.25      ]
+Particle number: 181 From Island number: 0 Best Score is: -0.940364917214 In Position : [  5.3919155   10.           0.25        10.           0.25         0.25
+   5.64910042   0.25         0.25         0.25      ]
+Particle number: 182 From Island number: 0 Best Score is: -0.949471050833 In Position : [  5.4858707   10.           0.25        10.           0.25         0.45558769
+   5.68537091   0.25         0.25         0.25      ]
+Particle number: 183 From Island number: 0 Best Score is: -0.949180447323 In Position : [  5.63502765  10.           0.25        10.           0.25         0.25
+   5.67508318   0.25         0.25         0.25      ]
+Particle number: 184 From Island number: 0 Best Score is: -0.952358150373 In Position : [  5.65378757  10.           0.25        10.           0.25         0.45849429
+   5.56500512   0.25         0.25         0.25      ]
+Particle number: 185 From Island number: 0 Best Score is: -0.949512586789 In Position : [  5.61689109  10.           0.25        10.           0.25         0.44437563
+   5.68202201   0.25         0.25         0.25      ]
+Particle number: 186 From Island number: 0 Best Score is: -0.932570729623 In Position : [ 10.          10.           0.25         5.83881375   0.46803493   0.25
+   3.14591038   0.25         0.25         0.25      ]
+Particle number: 187 From Island number: 0 Best Score is: -0.942309656174 In Position : [  5.80479629   9.96946414   0.25        10.           0.25         0.25
+   2.96271294   0.25         0.25         0.25      ]
+Particle number: 188 From Island number: 0 Best Score is: -0.945526092527 In Position : [  5.72392069  10.           0.25        10.           0.25         0.25
+   5.75862859   0.25         0.25         0.25      ]
+Particle number: 189 From Island number: 0 Best Score is: -0.941254590857 In Position : [  5.40383629  10.           0.25        10.           0.25         0.25
+   5.60710947   0.25         0.25         0.25      ]
+Particle number: 190 From Island number: 0 Best Score is: -0.948203918434 In Position : [  5.55448175  10.           0.25        10.           0.25         0.25
+   3.03116036   0.25         0.25         0.25      ]
+Particle number: 191 From Island number: 0 Best Score is: -0.949495051919 In Position : [  5.63034041  10.           0.25        10.           0.25         0.25
+   5.61536353   0.25         0.25         0.25      ]
+Particle number: 192 From Island number: 0 Best Score is: -0.904237739052 In Position : [  6.227749    10.           0.25        10.           0.25         0.25
+   5.63463635   0.46536089   0.25         0.25      ]
+Particle number: 193 From Island number: 0 Best Score is: -0.936414713565 In Position : [  5.72557319  10.           0.25        10.           0.25         0.25
+   5.36079186   0.25         0.25         0.25      ]
+Particle number: 194 From Island number: 0 Best Score is: -0.94913727257 In Position : [  5.58290989  10.           0.25        10.           0.25         0.25
+   5.64705359   0.25         0.25         0.25      ]
+Particle number: 195 From Island number: 0 Best Score is: -0.922129058984 In Position : [  5.31351752  10.           0.25        10.           0.25         0.47785802
+   5.7939966    0.25         0.25         0.25      ]
+Particle number: 196 From Island number: 0 Best Score is: -0.94514046011 In Position : [  5.79143279  10.           0.25        10.           0.25         0.25
+   5.67586807   0.25         0.25         0.25      ]
+Particle number: 197 From Island number: 0 Best Score is: -0.942431718699 In Position : [  5.67464462  10.           0.25        10.           0.25         0.25244776
+   5.78375819   0.25         0.25         0.25      ]
+Particle number: 198 From Island number: 0 Best Score is: -0.944048282851 In Position : [  5.6769837   10.           0.25        10.           0.25         0.25
+   1.55135833   0.25         0.25         0.25      ]
+Particle number: 199 From Island number: 0 Best Score is: -0.949454683187 In Position : [  5.6147283   10.           0.25        10.           0.25         0.25
+   5.64423628   0.25         0.25         0.25      ]
+Particle number: 200 From Island number: 0 Best Score is: -0.947453515295 In Position : [  5.57513696  10.           0.25        10.           0.25         0.44780997
+   0.25         0.25         0.25         0.25      ]
+Particle number: 201 From Island number: 0 Best Score is: -0.930483033527 In Position : [  2.9360938  10.          0.25       10.          0.25        0.25
+   3.1831433   0.25        0.25        0.25     ]
+Particle number: 202 From Island number: 0 Best Score is: -0.935380268135 In Position : [  5.65566775  10.           0.25        10.           0.25         0.25
+  10.           0.25         0.25         0.25      ]
+Particle number: 203 From Island number: 0 Best Score is: -0.947349622249 In Position : [  5.5128652   10.           0.25        10.           0.25         0.25
+   5.64003452   0.25         0.25         0.25      ]
+Particle number: 204 From Island number: 0 Best Score is: -0.943572108603 In Position : [  5.4791069   10.           0.25        10.           0.25         0.25
+   5.50783488   0.25         0.25         0.25      ]
+Particle number: 205 From Island number: 0 Best Score is: -0.949163615805 In Position : [  5.66849567  10.           0.25        10.           0.25         0.25
+   5.65535369   0.25         0.25         0.25      ]
+Particle number: 206 From Island number: 0 Best Score is: -0.94207191089 In Position : [  5.66592451  10.           0.25        10.           0.25         0.25
+   5.84827496   0.25         0.25         0.25      ]
+Particle number: 207 From Island number: 0 Best Score is: -0.947126304899 In Position : [  5.66296971  10.           0.25        10.           0.25         0.25
+   5.74857905   0.25         0.25         0.25      ]
+Particle number: 208 From Island number: 0 Best Score is: -0.935749088252 In Position : [  5.64313267  10.           0.25        10.           0.25         0.4313341
+   5.75575923   0.25         0.25         0.25      ]
+Particle number: 209 From Island number: 0 Best Score is: -0.948085856346 In Position : [  5.6586746   10.           0.25        10.           0.25         0.25
+   5.53867535   0.25         0.25         0.25      ]
+Particle number: 210 From Island number: 0 Best Score is: -0.953211069621 In Position : [  5.63531867  10.           0.25        10.           0.25         0.4570351
+   5.6195821    0.25         0.25         0.25      ]
+Particle number: 211 From Island number: 0 Best Score is: -0.942738238906 In Position : [  5.42533748  10.           0.25        10.           0.25         0.25
+   5.65284181   0.25         0.25         0.25      ]
+Particle number: 212 From Island number: 0 Best Score is: -0.948078806796 In Position : [  5.66284488  10.           0.25        10.           0.25         1.62678795
+   5.77485776   0.25         0.88012532   0.25      ]
+Particle number: 213 From Island number: 0 Best Score is: -0.945567727345 In Position : [  5.654905    10.           0.25        10.           0.25         0.45187332
+   5.8474789    0.25         0.25         0.25      ]
+Particle number: 214 From Island number: 0 Best Score is: -0.946403855597 In Position : [  5.75320242  10.           0.25        10.           0.25         0.45043865
+   0.25         0.25         0.25         0.25      ]
+Particle number: 215 From Island number: 0 Best Score is: -0.942542922902 In Position : [  5.58040108  10.           0.25         9.99011181   0.25         0.43617592
+   5.66244265   0.25         0.25         0.25      ]
+Particle number: 216 From Island number: 0 Best Score is: -0.876965226755 In Position : [  3.40392911  10.           0.25        10.           0.25         0.25
+   0.25         0.25         0.25         0.25      ]
+Particle number: 217 From Island number: 0 Best Score is: -0.94373751406 In Position : [  5.82070506  10.           0.25        10.           0.25         0.25
+   5.6654741    0.25         0.25         0.25      ]
+Particle number: 218 From Island number: 0 Best Score is: -0.947606404763 In Position : [  5.73427872  10.           0.25        10.           0.25         0.25
+   5.59364553   0.25         0.25         0.25      ]
+Particle number: 219 From Island number: 0 Best Score is: -0.917733284879 In Position : [  6.03126217  10.           0.25        10.           0.25         0.47634411
+   5.48841908   0.25         0.25         0.25      ]
+Particle number: 220 From Island number: 0 Best Score is: -0.902540755915 In Position : [  5.83461636  10.           0.25        10.           0.25         0.25
+   6.09596877   0.25         0.25         0.90197096]
+Particle number: 221 From Island number: 0 Best Score is: -0.938219252544 In Position : [  5.8988148   10.           0.25        10.           0.25         0.25
+   5.57169058   0.25         0.25         0.25      ]
+Particle number: 222 From Island number: 0 Best Score is: -0.947632437058 In Position : [  5.61141018  10.           0.25        10.           0.25         0.25
+   3.06114982   0.25         0.25         0.25      ]
+Particle number: 223 From Island number: 0 Best Score is: -0.94902870908 In Position : [  5.66102488  10.           0.25        10.           0.25         0.25
+   5.58307662   0.25         0.25         0.25      ]
+Particle number: 224 From Island number: 0 Best Score is: -0.950608251504 In Position : [  5.66505694  10.           0.25        10.           0.25         0.46614448
+   5.62378882   0.25         0.25         0.25      ]
+Particle number: 225 From Island number: 0 Best Score is: -0.902511568004 In Position : [  5.45912658  10.           0.25        10.           0.25         0.25
+   5.18940209   0.25         0.25         0.25705048]
+Particle number: 226 From Island number: 0 Best Score is: -0.936535999091 In Position : [  5.64905151  10.           0.25        10.           0.25         0.43346341
+   3.09093991   0.25         0.25         0.25      ]
+Particle number: 227 From Island number: 0 Best Score is: -0.9492562621 In Position : [  5.64210647  10.           0.25        10.           0.25         0.25
+   5.58990172   0.25         0.25         0.25      ]
+Particle number: 228 From Island number: 0 Best Score is: -0.909538164518 In Position : [  6.14617144  10.           0.25        10.           0.25         0.25
+   0.25         0.25         0.25         0.25      ]
+Particle number: 229 From Island number: 0 Best Score is: -0.943386386626 In Position : [  5.46004294  10.           0.25        10.           0.25         0.25
+   5.7286687    0.25         0.25         0.25      ]
+Particle number: 230 From Island number: 0 Best Score is: -0.949293005083 In Position : [  5.67247542  10.           0.25        10.           0.25         0.46758516
+   5.6854108    0.25         0.25         0.25      ]
+Particle number: 231 From Island number: 0 Best Score is: -0.945172635784 In Position : [  2.9697141  10.          0.25       10.          0.25        0.25        0.25
+   0.25        0.25        0.25     ]
+Particle number: 232 From Island number: 0 Best Score is: -0.949296905483 In Position : [  5.6925919   10.           0.25        10.           0.25         0.44479718
+   5.58656138   0.25         0.25         0.25      ]
+Particle number: 233 From Island number: 0 Best Score is: -0.949513174292 In Position : [  5.62305942  10.           0.25        10.           0.25         0.25
+   5.62284809   0.25         0.25         0.25      ]
+Particle number: 234 From Island number: 0 Best Score is: -0.94879554854 In Position : [  5.58177787  10.           0.25        10.           0.25         0.25
+   5.67785799   0.25         0.25         0.25      ]
+Particle number: 235 From Island number: 0 Best Score is: -0.949257440417 In Position : [  5.65341848  10.           0.25        10.           0.25         0.25
+   5.59595433   0.25         0.25         0.25      ]
+Particle number: 236 From Island number: 0 Best Score is: -0.921895135015 In Position : [  6.05485704  10.           0.25        10.           0.25         0.25150554
+   1.58848289   0.25         0.25         0.25      ]
+Particle number: 237 From Island number: 0 Best Score is: -0.932553584898 In Position : [ 10.          10.           0.25        10.           0.25         0.25
+   1.56349889   0.25         0.25         0.25      ]
+Particle number: 238 From Island number: 0 Best Score is: -0.948527329421 In Position : [  5.67826799  10.           0.25        10.           0.25         0.25
+   5.56673049   0.25         0.25         0.25      ]
+Particle number: 239 From Island number: 0 Best Score is: -0.92462916163 In Position : [  5.36452576  10.           0.25        10.           0.25         0.25
+   5.33979353   0.25         0.25         0.25      ]
+Particle number: 240 From Island number: 0 Best Score is: -0.936332869838 In Position : [  5.76801323  10.           0.25        10.           0.25         0.25
+   5.3778033    0.25         0.25         0.25      ]
+Particle number: 241 From Island number: 0 Best Score is: -0.925490990579 In Position : [  3.20399833  10.           0.25        10.           0.25         0.25
+   0.25         0.25         0.25         0.25      ]
+Particle number: 242 From Island number: 0 Best Score is: -0.945905816206 In Position : [  5.77229323  10.           0.25        10.           0.25         0.25
+   5.68301018   0.25         0.25         0.25      ]
+Particle number: 243 From Island number: 0 Best Score is: -0.94737579264 In Position : [  5.68709303  10.           0.25        10.           0.25         0.25
+   5.52828315   0.25         0.25         0.25      ]
+Particle number: 244 From Island number: 0 Best Score is: -0.948164562121 In Position : [  5.67127028  10.           0.25        10.           0.25         0.25
+   5.54667875   0.25         0.25         0.25      ]
+Particle number: 245 From Island number: 0 Best Score is: -0.949334559302 In Position : [  5.59431727  10.           0.25        10.           0.25         0.25
+   3.00119192   0.25         0.25         0.25      ]
+Particle number: 246 From Island number: 0 Best Score is: -0.933890754032 In Position : [  5.50606893  10.           0.25        10.           0.25         0.43050463
+   5.70593624   0.25         0.25         0.25      ]
+Particle number: 247 From Island number: 0 Best Score is: -0.94063904149 In Position : [  5.61502352  10.           0.25        10.           0.25         0.25
+   3.13289516   0.25         0.25         0.25      ]
+Particle number: 248 From Island number: 0 Best Score is: -0.946035731827 In Position : [  5.73790217  10.           0.25        10.           0.25         0.25
+   5.73191566   0.25         0.25         0.25      ]
+Particle number: 249 From Island number: 0 Best Score is: -0.948055888661 In Position : [  5.69021346  10.           0.25        10.           0.25         0.25
+   5.70379404   0.25         0.25         0.25      ]
+Particle number: 250 From Island number: 0 Best Score is: -0.947924036297 In Position : [  5.52899658  10.           0.25        10.           0.25         0.25
+   5.62195803   0.25         0.25         0.25      ]
+Particle number: 251 From Island number: 0 Best Score is: -0.946237367627 In Position : [  5.52385551  10.           0.25        10.           0.25         0.25
+   5.53114015   0.25         0.25         0.25      ]
+Particle number: 252 From Island number: 0 Best Score is: -0.94930559604 In Position : [  5.6617034   10.           0.25        10.           0.25         0.25
+   5.64596383   0.25         0.25         0.25      ]
+Particle number: 253 From Island number: 0 Best Score is: -0.949285893766 In Position : [  5.59808875  10.           0.25        10.           0.25         0.25
+   5.65250512   0.25         0.25         0.25      ]
+Particle number: 254 From Island number: 0 Best Score is: -0.948573317237 In Position : [  5.60430194  10.           0.25        10.           0.25         0.25
+   5.55546513   0.25         0.25         0.25      ]
+Particle number: 255 From Island number: 0 Best Score is: -0.947497383828 In Position : [  5.61375198  10.           0.25        10.           0.25         0.44071771
+   5.61784522   0.25         0.25         0.25      ]
+Particle number: 256 From Island number: 0 Best Score is: -0.949445229897 In Position : [  5.59623038  10.           0.25        10.           0.25         0.44604915
+   5.5401901    0.25         0.25         0.25      ]
+Particle number: 257 From Island number: 0 Best Score is: -0.812801140604 In Position : [  6.07843694  10.           0.41833296  10.           0.25         0.25
+   2.92613682   0.7800401    0.25         0.41413656]
+Particle number: 258 From Island number: 0 Best Score is: -0.946620024844 In Position : [  5.72699589  10.           0.25        10.           0.25         0.47071826
+   1.59487361   0.25         0.25         0.25      ]
+Particle number: 259 From Island number: 0 Best Score is: -0.940838135476 In Position : [  5.74772633  10.           0.25        10.           0.25         0.25
+   5.83654678   0.25         0.25         0.25      ]
+Particle number: 260 From Island number: 0 Best Score is: -0.949401880471 In Position : [  5.65566842  10.           0.25        10.           0.25         0.25
+   5.63551223   0.25         0.25         0.25      ]
+Particle number: 261 From Island number: 0 Best Score is: -0.927078267259 In Position : [  5.63761404  10.           0.25         9.7062852    0.25         0.25
+   5.78305962   0.25         0.25         0.25      ]
+Particle number: 262 From Island number: 0 Best Score is: -0.86202374623 In Position : [  2.8483628   10.           0.25        10.           0.25         9.81870523
+   1.43800028   0.25         0.25         0.25      ]
+Particle number: 263 From Island number: 0 Best Score is: -0.949077831634 In Position : [  5.66959066  10.           0.25        10.           0.25         0.25
+   5.66291044   0.25         0.25         0.25      ]
+Particle number: 264 From Island number: 0 Best Score is: -0.946607652098 In Position : [  5.49723324  10.           0.25        10.           0.25         0.25
+   5.65820205   0.25         0.25         0.25      ]
+Particle number: 265 From Island number: 0 Best Score is: -0.947524920442 In Position : [  5.57851725  10.           0.25        10.           0.25         0.25
+   5.73035761   0.25         0.25         0.25      ]
+Particle number: 266 From Island number: 0 Best Score is: -0.948579037997 In Position : [  5.61527857  10.           0.25        10.           0.25         0.46497197
+   5.49829924   0.25         0.25         0.25      ]
+Particle number: 267 From Island number: 0 Best Score is: -0.636612293794 In Position : [  3.28172319   9.32991069   1.00089984  10.           0.87632598
+   0.41532506   6.24037078   0.25         0.25         1.45070271]
+Particle number: 268 From Island number: 0 Best Score is: -0.942583850738 In Position : [  5.55715005  10.           0.25        10.           0.25         0.25
+   5.83019714   0.25         0.25         0.25      ]
+Particle number: 269 From Island number: 0 Best Score is: -0.944784296883 In Position : [  5.53901395  10.           0.25        10.           0.25         0.25
+   5.48228728   0.25         0.25         0.25      ]
+Particle number: 270 From Island number: 0 Best Score is: -0.928882845722 In Position : [ 10.          10.           0.25        10.           0.25         0.25
+   5.83832235   0.25         0.25         0.25      ]
+Particle number: 271 From Island number: 0 Best Score is: -0.944110570671 In Position : [  2.93588327  10.           0.25        10.           0.25         0.25155207
+   5.70981347   0.25         0.25         0.25      ]
+Particle number: 272 From Island number: 0 Best Score is: -0.935046179101 In Position : [  5.3843547  10.          0.25       10.          0.25        0.25
+   3.0976264   0.25        0.25        0.25     ]
+Particle number: 273 From Island number: 0 Best Score is: -0.947297092872 In Position : [  5.62475611  10.           0.25        10.           0.25         0.25
+   0.83676725   0.25         0.25         0.25      ]
+Particle number: 274 From Island number: 0 Best Score is: -0.951488107152 In Position : [  5.64915922  10.           0.25        10.           0.25         0.45303462
+   5.53185024   0.25         0.25         0.25      ]
+Particle number: 275 From Island number: 0 Best Score is: -0.68306778752 In Position : [  2.92416865   9.64675299   3.25389838  10.           2.56626519
+   1.52654332   6.34604818   1.71939853   1.66496458   3.22720499]
+Particle number: 276 From Island number: 0 Best Score is: -0.944622347428 In Position : [  5.45581307  10.           0.25        10.           0.25         0.25
+   5.60691002   0.25         0.25         0.25      ]
+Particle number: 277 From Island number: 0 Best Score is: -0.938183836768 In Position : [  3.07792122  10.           0.25        10.           0.25         0.25
+   5.86451624   0.25         0.25         0.25      ]
+Particle number: 278 From Island number: 0 Best Score is: -0.943827282982 In Position : [  5.77417107  10.           0.25        10.           0.25         0.25
+   5.75513851   0.25         0.25         0.25      ]
+Particle number: 279 From Island number: 0 Best Score is: -0.947462768104 In Position : [  5.64705515  10.           0.25        10.           0.25         0.25
+   3.06371932   0.25         0.25         0.25      ]
+Particle number: 280 From Island number: 0 Best Score is: -0.947081737861 In Position : [  5.69629065  10.           0.25        10.           0.25         0.25
+   5.52480686   0.25         0.25         0.25      ]
+Particle number: 281 From Island number: 0 Best Score is: -0.936013625291 In Position : [  3.07297422  10.           0.25        10.           0.25         0.25
+   2.86488526   0.25         0.25         0.25      ]
+Particle number: 282 From Island number: 0 Best Score is: -0.949183928854 In Position : [  5.62942128  10.           0.25        10.           0.25         0.25
+   5.58247901   0.25         0.25         0.25      ]
+Particle number: 283 From Island number: 0 Best Score is: -0.920038665751 In Position : [  5.83950761  10.           0.25        10.           0.25         0.25
+   6.03006625   0.25         0.25         0.25      ]
+Particle number: 284 From Island number: 0 Best Score is: -0.950851780069 In Position : [  5.6095666   10.           0.25        10.           0.25         0.44797959
+   5.5577195    0.25         0.25         0.25      ]
+Particle number: 285 From Island number: 0 Best Score is: -0.949977630629 In Position : [  5.62893963  10.           0.25        10.           0.25         0.46424037
+   5.52695828   0.25         0.25         0.25      ]
+Particle number: 286 From Island number: 0 Best Score is: -0.92886972881 In Position : [  5.97676424  10.           0.25        10.           0.25         0.25
+   5.772956     0.25         0.25         0.25      ]
+Particle number: 287 From Island number: 0 Best Score is: -0.923466178163 In Position : [  5.35656415  10.           0.25        10.           0.25         0.25
+  10.           0.25         0.25         0.25      ]
+Particle number: 288 From Island number: 0 Best Score is: -0.944931985888 In Position : [  5.76459276  10.           0.25        10.           0.25         0.25
+   5.52394669   0.25         0.25         0.25      ]
+Particle number: 289 From Island number: 0 Best Score is: -0.90613997756 In Position : [  5.64238245  10.           0.25        10.           0.25         0.41437981
+   5.8063667    0.25         0.25         0.25      ]
+Particle number: 290 From Island number: 0 Best Score is: -0.945637078038 In Position : [  5.66911419  10.           0.25        10.           0.25483693
+   0.45474469   5.57775213   0.25         0.25         0.25      ]
+Particle number: 291 From Island number: 0 Best Score is: -0.949257888647 In Position : [  5.67445876  10.           0.25        10.           0.25         0.46261937
+   5.50107459   0.25         0.25         0.25      ]
+Particle number: 292 From Island number: 0 Best Score is: -0.9467033743 In Position : [  5.66207794  10.           0.25        10.           0.25         0.44403552
+   5.76630719   0.25         0.25         0.25      ]
+Particle number: 293 From Island number: 0 Best Score is: -0.938689033358 In Position : [  5.88784209  10.           0.25        10.           0.46694445   0.25
+   5.73600581   0.25         0.25         0.25      ]
+Particle number: 294 From Island number: 0 Best Score is: -0.951853900407 In Position : [  5.66844313  10.           0.25        10.           0.25         0.45694231
+   5.54446419   0.25         0.25         0.25      ]
+Particle number: 295 From Island number: 0 Best Score is: -0.946359834228 In Position : [  5.53634395  10.           0.25        10.           0.25         0.44648683
+   5.48447756   0.25         0.25         0.25      ]
+Particle number: 296 From Island number: 0 Best Score is: -0.949339623772 In Position : [  5.6143299   10.           0.25        10.           0.25         0.25
+   2.98636013   0.25         0.25         0.25      ]
+Particle number: 297 From Island number: 0 Best Score is: -0.948702194298 In Position : [  5.6958448   10.           0.25        10.           0.25         0.44501013
+   5.70590462   0.25         0.25         0.25      ]
+Particle number: 298 From Island number: 0 Best Score is: -0.945951452497 In Position : [  5.76015059  10.           0.25        10.           0.25         0.25
+   5.70556267   0.25         0.25         0.25      ]
+Particle number: 299 From Island number: 0 Best Score is: -0.945530673688 In Position : [  5.6528106   10.           0.25        10.           0.25         0.25
+   5.47313021   0.25         0.25         0.25      ]
